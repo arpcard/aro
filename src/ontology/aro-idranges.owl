@@ -16,8 +16,8 @@ Ontology: <http://purl.obolibrary.org/obo/foobar/foobar-idranges.owl>
 
 
 Annotations: 
-    idsfor: "FOOBAR",
-    idprefix: "http://purl.obolibrary.org/obo/FOOBAR_",
+    idsfor: "ARO",
+    idprefix: "http://purl.obolibrary.org/obo/ARO_",
     iddigits: 7
 
 AnnotationProperty: idprefix:

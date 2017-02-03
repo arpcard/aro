@@ -1,0 +1,23 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/aro/imports/chebi_import.owl
+
+[Source ontology]
+CHEBI
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/CHEBI_27933 #beta-lactam antibiotic
+includeAllChildren
+http://purl.obolibrary.org/obo/CHEBI_28001 #vancomycin
+
+[Top level source term URIs and target direct superclass URIs]
+
+
+[Source term retrieval setting]
+includeNoIntermediates
+
+[Source annotation URIs]
+http://www.w3.org/2000/01/rdf-schema#label
+includeAllAnnotationProperties
+includeAllAxioms
+
+[Source annotation URIs to be excluded]

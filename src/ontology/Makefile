@@ -1,5 +1,5 @@
 OBO=http://purl.obolibrary.org/obo
-ONT=foobar
+ONT=aro
 BASE=$(OBO)/$(ONT)
 SRC=$(ONT)-edit.owl
 RELEASEDIR=../..
@@ -23,24 +23,25 @@ $(ONT).obo: $(ONT).owl
 	$(ROBOT) convert -i $< -f obo -o $(ONT).obo.tmp && mv $(ONT).obo.tmp $@
 
 
-IMPORTS = MY_IMPORTS_LIST
+IMPORTS = chebi
 IMPORTS_OWL = $(patsubst %, imports/%_import.owl,$(IMPORTS)) $(patsubst %, imports/%_import.obo,$(IMPORTS))
+
 
 # Make this target to regenerate ALL
 all_imports: $(IMPORTS_OWL)
 
-# Use ROBOT, driven entirely by terms lists NOT from source ontology
-imports/%_import.owl: mirror/%.owl imports/%_terms.txt
-	$(ROBOT) extract -i $< -T imports/$*_terms.txt --method BOT -O $(BASE)/$@ -o $@
-.PRECIOUS: imports/%_import.owl
+# Only fetches .owl if it doesn't exist or if .txt has later timestamp.
+imports/%_import.owl: imports/%_ontofox.txt
+	curl -s -F file=@imports/$*_ontofox.txt -o $@ http://ontofox.hegroup.org/service.php
+	$(ROBOT) reduce -i $@ -r ELK -s true --xml-entities -o $@
+	# All annotations are manually curated in the ontology-metadata.owl file
+	# Because OWLAPI is parsing 1 line commented out annotations, make this step last:
+	# Error trap the sed command - on Macs we need the '.bak' after -i to avoid a parsing error; while on other linux it fails
+	sed -i '.bak' 's/<owl:AnnotationProperty[^>]*\/>/<!-- & -->/; s/<\/owl:AnnotationProperty>/& -->/; s/<owl:AnnotationProperty[^>]*">/<!-- &/;' $@ ||	sed -i 's/<owl:AnnotationProperty[^>]*\/>/<!-- & -->/; s/<\/owl:AnnotationProperty>/& -->/; s/<owl:AnnotationProperty[^>]*">/<!-- &/;' $@
 
 imports/%_import.obo: imports/%_import.owl
 	$(OWLTOOLS) $(USECAT) $< -o -f obo $@
 
-# clone remote ontology locally, perfoming some excision of relations and annotations
-mirror/%.owl: $(SRC)
-	$(OWLTOOLS) $(OBO)/$*.owl --remove-annotation-assertions -l -s -d --remove-dangling-annotations  -o $@
-.PRECIOUS: mirror/%.owl
 
 release: $(ONT).owl $(ONT).obo
 	cp $^ $(RELEASEDIR) && cp imports/* $(RELEASEDIR)/imports
