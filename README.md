@@ -4,7 +4,7 @@ The Antibiotic Resistance Ontology (ARO) organizes the information describing th
 
 ## License
 
-Ontologies at the Comprehensive Antibiotic Resistance Database are freely available under the [Creative Commons CC-BY license version 4.0](https://creativecommons.org/licenses/by/4.0/)
+Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/download) are freely available under the [Creative Commons CC-BY license version 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Versions
 
