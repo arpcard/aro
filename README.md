@@ -1,6 +1,6 @@
 ## ARO
 
-The Antibiotic Resistance Ontology (ARO) organizes the information describing the ability of a microorganism to withstand the effects of an antibiotic
+The Antibiotic Resistance Ontology describes antibiotic resistance genes and mutations, their products, mechanisms, and associated phenotypes, as well as antibiotics and their molecular targets. It is integrated with the Comprehensive Antibiotic Resistance Database (https://card.mcmaster.ca), a curated resource containing high quality reference data on the molecular basis of antimicrobial resistance.
 
 ## License
 
