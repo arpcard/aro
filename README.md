@@ -4,11 +4,13 @@ The Antibiotic Resistance Ontology describes antibiotic resistance genes and mut
 
 ## License
 
-Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/download) are freely available under the [Creative Commons CC-BY license version 4.0](https://creativecommons.org/licenses/by/4.0/)
+Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/download) are freely available under the [Creative Commons CC-BY license version 4.0](LICENSE).
 
-## Versions
+## Contributing
 
-### Stable release versions
+The Antibiotic Resistance Ontology (ARO) is continuously improved by the Comprehensive Antibiotic Resistance Database (CARD) curation team, with updates released every 1-3 months here and at the CARD website. This repo (https://github.com/arpcard/aro) does not accept pull requests, instead please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues or at https://github.com/arpcard/amr_curation. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
+
+## Stable Release Versions
 
 The latest version of the ontology can always be found at:
 
@@ -16,10 +18,6 @@ http://purl.obolibrary.org/obo/aro.owl
 
 (note this will not show up until the request has been approved by obofoundry.org)
 
-### Editors' version
-
-Editors of this ontology should use the edit version, [src/ontology/aro-edit.owl](src/ontology/aro-edit.owl)
-
 ## Contact
 
-Please contact us at card@mcmaster.ca
+Please contact us at card@mcmaster.ca.
