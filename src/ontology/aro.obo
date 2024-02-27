@@ -63869,11 +63869,6 @@ name: confers_resistance_to_antibiotic
 xref: RO:confers_resistance_to_antibiotic
 
 [Typedef]
-id: is_a
-name: is_a
-xref: RO:is_a
-
-[Typedef]
 id: evolutionary_variant_of
 name: evolutionary_variant_of
 xref: RO:0002312
