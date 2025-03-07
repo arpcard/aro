@@ -194,6 +194,7 @@ synonym: "Mikavir" EXACT []
 synonym: "amikacine" EXACT []
 synonym: "mikacin" EXACT []
 xref: PubChem:37768
+xref: CHEBI:2637
 
 [Term]
 id: ARO:0000014
@@ -229,6 +230,7 @@ synonym: "Meticillinum" EXACT []
 synonym: "Staphcillin" EXACT []
 synonym: "meticillin" EXACT []
 xref: PubChem:6087
+xref: CHEBI:6827
 
 [Term]
 id: ARO:0000016
@@ -256,6 +258,7 @@ synonym: "Florimycin" EXACT []
 synonym: "Tuberactinomycin B" EXACT []
 synonym: "Viocin" EXACT []
 xref: PubChem:135398671
+xref: CHEBI:15782
 
 [Term]
 id: ARO:0000020
@@ -276,6 +279,7 @@ synonym: "ribastamin" EXACT []
 synonym: "vistamycin" EXACT []
 synonym: "xylostatin" EXACT []
 xref: PubChem:33042
+xref: CHEBI:45257
 
 [Term]
 id: ARO:0000022
@@ -293,6 +297,7 @@ is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Enroxil" EXACT []
 synonym: "Penetrex" EXACT []
 xref: PubChem:3229
+xref: CHEBI:157175
 
 [Term]
 id: ARO:0000024
@@ -303,6 +308,7 @@ is_a: ARO:0000016 ! aminoglycoside antibiotic
 synonym: "ambutyrosin sulfate" EXACT []
 synonym: "butirosin sulphate" EXACT []
 xref: PubChem:72393
+xref: CHEBI:65109
 
 [Term]
 id: ARO:0000025
@@ -314,6 +320,7 @@ synonym: "(1R,2S)-1,2-epoxy-propylphosphonic acid" EXACT []
 synonym: "phosphomycin" EXACT []
 synonym: "phosphonomycin" EXACT []
 xref: PubChem:73491
+xref: CHEBI:28915
 
 [Term]
 id: ARO:0000026
@@ -329,6 +336,7 @@ namespace: antibiotic_resistance
 def: "Roxithromycin is a semi-synthetic, 14-carbon ring macrolide antibiotic derived from erythromycin. It is used to treat respiratory tract, urinary and soft tissue infections. Roxithromycin may possess bacteriocidal activity, particularly at higher concentrations by binding to the 50S subunit of the bacterial 70S rRNA complex, protein synthesis and subsequently structure/function processes critical for life or replication are inhibited." [PMID:15980346, PMID:10582867]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6915744
+xref: CHEBI:48844
 
 [Term]
 id: ARO:0000028
@@ -338,6 +346,7 @@ def: "Vancomycin is a glycopeptide antibiotic used in the prophylaxis and treatm
 is_a: ARO:3000081 ! glycopeptide antibiotic
 synonym: "Vancocin" EXACT []
 xref: PubChem:14969
+xref: CHEBI:28001
 
 [Term]
 id: ARO:0000029
@@ -348,6 +357,7 @@ is_a: ARO:3000081 ! glycopeptide antibiotic
 synonym: "targocid" EXACT []
 synonym: "teichomycin" EXACT []
 xref: PubChem:16129712
+xref: CHEBI:29687
 
 [Term]
 id: ARO:0000030
@@ -357,6 +367,7 @@ def: "Tigecycline is an glycylcycline antibiotic. It works by inhibiting action 
 is_a: ARO:0000042 ! glycylcycline
 synonym: "Tygacil" EXACT []
 xref: PubChem:54686904
+xref: CHEBI:149836
 
 [Term]
 id: ARO:0000031
@@ -392,6 +403,7 @@ synonym: "rickamicin" EXACT []
 synonym: "sisomycin" EXACT []
 synonym: "sissomicin" EXACT []
 xref: PubChem:36119
+xref: CHEBI:9169
 
 [Term]
 id: ARO:0000036
@@ -404,6 +416,7 @@ synonym: "Cipro" EXACT []
 synonym: "Ciprobay" EXACT []
 synonym: "Ciproxan" EXACT []
 xref: PubChem:2764
+xref: CHEBI:100241
 
 [Term]
 id: ARO:0000037
@@ -415,6 +428,7 @@ synonym: "ambylan" EXACT []
 synonym: "apralan" EXACT []
 synonym: "nebramycin II" EXACT []
 xref: PubChem:3081545
+xref: CHEBI:2790
 
 [Term]
 id: ARO:0000038
@@ -439,6 +453,7 @@ synonym: "Spectam" EXACT []
 synonym: "Togamycin" EXACT []
 synonym: "Trobicin" EXACT []
 xref: PubChem:15541
+xref: CHEBI:9215
 
 [Term]
 id: ARO:0000040
@@ -451,6 +466,7 @@ synonym: "streptomycin A" EXACT []
 synonym: "streptomycin sulfate" EXACT []
 synonym: "streptomycin sulphate" EXACT []
 xref: PubChem:19649
+xref: CHEBI:17076
 
 [Term]
 id: ARO:0000041
@@ -495,6 +511,7 @@ synonym: "Geopen" EXACT []
 synonym: "Microcillin" EXACT []
 synonym: "Pyopen" EXACT []
 xref: PubChem:20824
+xref: CHEBI:3393
 
 [Term]
 id: ARO:0000045
@@ -531,6 +548,7 @@ synonym: "Lincomycin A" EXACT []
 synonym: "Lincomycine" EXACT []
 synonym: "Lincomycinum" EXACT []
 xref: PubChem:3000540
+xref: CHEBI:6472
 
 [Term]
 id: ARO:0000047
@@ -542,6 +560,7 @@ synonym: "Puromycin dihydrochloride" EXACT []
 synonym: "Puromycin hydrochloride" EXACT []
 synonym: "Stylomycin dihydrochloride" EXACT []
 xref: PubChem:439530
+xref: CHEBI:17939
 
 [Term]
 id: ARO:0000049
@@ -558,6 +577,7 @@ synonym: "Kanamycinum" EXACT []
 synonym: "Kantrex" EXACT []
 synonym: "kanamycin" EXACT []
 xref: PubChem:6032
+xref: CHEBI:17630
 
 [Term]
 id: ARO:0000050
@@ -583,6 +603,7 @@ synonym: "Enterocycline" EXACT []
 synonym: "Sumycin" EXACT []
 synonym: "Tsiklomistsin" EXACT []
 xref: PubChem:54675776
+xref: CHEBI:27902
 
 [Term]
 id: ARO:0000052
@@ -601,6 +622,7 @@ synonym: "Tobramitsetin" EXACT []
 synonym: "Tobramycetin" EXACT []
 synonym: "Tobrex" EXACT []
 xref: PubChem:36294
+xref: CHEBI:28864
 
 [Term]
 id: ARO:0000053
@@ -631,6 +653,7 @@ synonym: "Bicozamycin" EXACT []
 synonym: "Bicozamycine" EXACT []
 synonym: "Bicozamycinum" EXACT []
 xref: PubChem:65807
+xref: CHEBI:60584
 
 [Term]
 id: ARO:0000056
@@ -648,6 +671,7 @@ synonym: "Oxazocilline" EXACT []
 synonym: "Prostaphlin" EXACT []
 synonym: "Prostaphlyn" EXACT []
 xref: PubChem:6196
+xref: CHEBI:7809
 
 [Term]
 id: ARO:0000057
@@ -660,6 +684,7 @@ synonym: "HMR3647" EXACT []
 synonym: "Ketek" EXACT []
 synonym: "Levviax" EXACT []
 xref: PubChem:3002190
+xref: CHEBI:29688
 
 [Term]
 id: ARO:0000058
@@ -678,6 +703,7 @@ synonym: "Cephazolin" EXACT []
 synonym: "Cephazoline" EXACT []
 synonym: "Elzogram" EXACT []
 xref: PubChem:33255
+xref: CHEBI:474053
 
 [Term]
 id: ARO:0000059
@@ -691,6 +717,7 @@ synonym: "Cefepimum" EXACT []
 synonym: "FEP" EXACT []
 synonym: "Maxipime" EXACT []
 xref: PubChem:5479537
+xref: CHEBI:478164
 
 [Term]
 id: ARO:0000060
@@ -709,6 +736,7 @@ synonym: "caftazidime" EXACT []
 synonym: "ceftazidima" EXACT []
 synonym: "ceftazidimum" EXACT []
 xref: PubChem:5481173
+xref: CHEBI:3508
 
 [Term]
 id: ARO:0000061
@@ -720,6 +748,7 @@ synonym: "Ceftobiprole medocaril" EXACT []
 synonym: "Zeftera" EXACT []
 synonym: "Zevtera" EXACT []
 xref: PubChem:135413542
+xref: CHEBI:140407
 
 [Term]
 id: ARO:0000062
@@ -738,6 +767,7 @@ synonym: "Longacef" EXACT []
 synonym: "Longaceph" EXACT []
 synonym: "Rocephin" EXACT []
 xref: PubChem:5479530
+xref: CHEBI:29007
 
 [Term]
 id: ARO:0000063
@@ -755,6 +785,7 @@ synonym: "Cephuroxime" EXACT []
 synonym: "Sharox" EXACT []
 synonym: "Zinacef" EXACT []
 xref: PubChem:5479529
+xref: CHEBI:3515
 
 [Term]
 id: ARO:0000064
@@ -794,6 +825,7 @@ synonym: "Macladin" EXACT []
 synonym: "Naxy" EXACT []
 synonym: "Veclam" EXACT []
 xref: PubChem:84029
+xref: CHEBI:3732
 
 [Term]
 id: ARO:0000066
@@ -811,6 +843,7 @@ synonym: "Clindamycinum" EXACT []
 synonym: "Clinimycin" EXACT []
 synonym: "Sobelin" EXACT []
 xref: PubChem:446598
+xref: CHEBI:3745
 
 [Term]
 id: ARO:0000067
@@ -835,6 +868,7 @@ synonym: "Daptomycine" EXACT []
 synonym: "Daptomycinum" EXACT []
 synonym: "Deptomycin" EXACT []
 xref: PubChem:16134395
+xref: CHEBI:600103
 
 [Term]
 id: ARO:0000069
@@ -852,6 +886,7 @@ synonym: "Vibramycin" EXACT []
 synonym: "Vibramycine" EXACT []
 synonym: "Vibravenos" EXACT []
 xref: PubChem:54671203
+xref: CHEBI:50845
 
 [Term]
 id: ARO:0000070
@@ -862,6 +897,7 @@ is_a: ARO:0000020 ! carbapenem
 synonym: "ERT" EXACT []
 synonym: "Invanz" EXACT []
 xref: PubChem:150610
+xref: CHEBI:404903
 
 [Term]
 id: ARO:0000071
@@ -872,6 +908,7 @@ is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Levaquin" EXACT []
 synonym: "Tavanic" EXACT []
 xref: PubChem:149096
+xref: CHEBI:63598
 
 [Term]
 id: ARO:0000072
@@ -884,6 +921,7 @@ synonym: "Zyvoxa" EXACT []
 synonym: "Zyvoxam" EXACT []
 synonym: "Zyvoxid" EXACT []
 xref: PubChem:441401
+xref: CHEBI:63607
 
 [Term]
 id: ARO:0000073
@@ -898,6 +936,7 @@ synonym: "Meropenem anhydrous" EXACT []
 synonym: "Meropenemum" EXACT []
 synonym: "Merrem" EXACT []
 xref: PubChem:441130
+xref: CHEBI:43968
 
 [Term]
 id: ARO:0000074
@@ -912,6 +951,7 @@ synonym: "MXFX" EXACT []
 synonym: "Moxifloxacin hydrochloride" EXACT []
 synonym: "Vigamox" EXACT []
 xref: PubChem:152946
+xref: CHEBI:63611
 
 [Term]
 id: ARO:0000075
@@ -929,6 +969,7 @@ synonym: "Macrodantin" EXACT []
 synonym: "Macrodantina" EXACT []
 synonym: "Nitrofuradantin" EXACT []
 xref: PubChem:6604200
+xref: CHEBI:71415
 
 [Term]
 id: ARO:0000076
@@ -979,6 +1020,7 @@ synonym: "Pipercillin" EXACT []
 synonym: "Pipracil" EXACT []
 synonym: "Pipril" EXACT []
 xref: PubChem:43672
+xref: CHEBI:8232
 
 [Term]
 id: ARO:0000079
@@ -1282,6 +1324,7 @@ namespace: antibiotic_resistance
 def: "Ristocetin is a glycopeptide antibiotic similar to vancomycin but positively charged. It is not used clinically because it induces platelet agglutination." [PMID:2532132, PMID:17620]
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:16204749
+xref: CHEBI:85129
 
 [Term]
 id: ARO:3000023
@@ -1730,6 +1773,7 @@ is_a: ARO:3000103 ! aminocoumarin antibiotic
 synonym: "cathomycin" EXACT []
 synonym: "streptonivicin" EXACT []
 xref: PubChem:54675769
+xref: CHEBI:28368
 
 [Term]
 id: ARO:3000112
@@ -1804,6 +1848,7 @@ namespace: antibiotic_resistance
 def: "Balhimycin is a vancomycin-like glycopeptide antibiotic produced by Amycolatopsis balhimycina. It binds to the terminal Lys-D-Ala-D-Ala of peptidoglycan precursors." [PMID:11495926, PMID:10390204, PMID:11932455, PMID:9761883, PMID:16730832]
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:16134543
+xref: CHEBI:47250
 
 [Term]
 id: ARO:3000121
@@ -1889,6 +1934,7 @@ namespace: antibiotic_resistance
 def: "Clorobiocin is an aminocoumarin antibiotic produced by Streptomyces roseochromogenes, and binds DNA gyrase subunit B to inhibit ATP-dependent DNA supercoiling." [PMID:12044152, PMID:8231802, PMID:6154685]
 is_a: ARO:3000103 ! aminocoumarin antibiotic
 xref: PubChem:54706138
+xref: CHEBI:47302
 
 [Term]
 id: ARO:3000133
@@ -1933,6 +1979,7 @@ namespace: antibiotic_resistance
 def: "Tylosin is a 16-membered macrolide, naturally produced by Streptomyces fradiae. It interacts with the bacterial ribosome 50S subunit to inhibit protein synthesis." [PMID:19793461]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5280440
+xref: CHEBI:17658
 
 [Term]
 id: ARO:3000149
@@ -1952,6 +1999,7 @@ def: "Coumermycin A1 is an antibiotic produced by Streptomyces rishiriensis, and
 is_a: ARO:3000103 ! aminocoumarin antibiotic
 synonym: "Notomycin A1" EXACT []
 xref: PubChem:54675768
+xref: CHEBI:3907
 
 [Term]
 id: ARO:3000151
@@ -1968,6 +2016,7 @@ namespace: antibiotic_resistance
 def: "Minocycline is second generation semi-synthetic derivative of the tetracycline group of antibiotics. It inhibits bacterial protein synthesis by binding to the 30S subunit of the bacterial ribosome and preventing the aminotransferase-tRNA from associating with the ribosome." [PMID:19862477, PMID:11381101]
 is_a: ARO:3000050 ! tetracycline antibiotic
 xref: PubChem:54675783
+xref: CHEBI:50694
 
 [Term]
 id: ARO:3000153
@@ -2017,6 +2066,7 @@ def: "Azithromycin is a 15-membered macrolide and falls under the subclass of az
 is_a: ARO:0000000 ! macrolide antibiotic
 synonym: "AZM" EXACT []
 xref: PubChem:447043
+xref: CHEBI:2955
 
 [Term]
 id: ARO:3000159
@@ -2092,6 +2142,7 @@ def: "Rifampin is a semi-synthetic rifamycin, and inhibits RNA synthesis by bind
 is_a: ARO:3000157 ! rifamycin antibiotic
 synonym: "rifampicin" EXACT []
 xref: PubChem:135398735
+xref: CHEBI:28077
 
 [Term]
 id: ARO:3000170
@@ -2101,6 +2152,7 @@ def: "Imipenem is a broad-spectrum antibiotic and is usually taken with cilastat
 is_a: ARO:0000020 ! carbapenem
 synonym: "IMI" EXACT []
 xref: PubChem:104838
+xref: CHEBI:471744
 
 [Term]
 id: ARO:3000171
@@ -2157,6 +2209,7 @@ namespace: antibiotic_resistance
 def: "Dirithromycin is an oxazine derivative of erythromycin, sharing the 14-carbon macrolide ring. The antibiotic binds to the 50S subunit of the ribosome to inhibit bacterial protein synthesis." [PMID:7683018]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6473883
+xref: CHEBI:474014
 
 [Term]
 id: ARO:3000177
@@ -2235,6 +2288,7 @@ namespace: antibiotic_resistance
 def: "Chloroeremomycin is a vancomycin-like glycopeptide, with three sugars instead of two in vancomycin and balhimycin. Chloroeremomycin dimerizes and binds to the terminus of peptidoglycan precursors." [PMID:9545426, PMID:11035791, PMID:11942828]
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:445806
+xref: CHEBI:29556
 
 [Term]
 id: ARO:3000185
@@ -2273,6 +2327,7 @@ namespace: antibiotic_resistance
 def: "Trimethoprim is a synthetic 5-(3,4,5- trimethoxybenzyl) pyrimidine inhibitor of dihydrofolate reductase, inhibiting synthesis of tetrahydrofolic acid. Tetrahydrofolic acid is an essential precursor in the de novo synthesis of the DNA nucleotide thymidine. Trimethoprim is a bacteriostatic antibiotic mainly used in the prophylaxis and treatment of urinary tract infections in combination with sulfamethoxazole, a sulfonamide antibiotic." [PMID:18024520, PMID:11432417]
 is_a: ARO:3000171 ! diaminopyrimidine antibiotic
 xref: PubChem:5578
+xref: CHEBI:45924
 
 [Term]
 id: ARO:3000189
@@ -2281,6 +2336,7 @@ namespace: antibiotic_resistance
 def: "Oritavancin is a semi-synthetic derivative of chloroeremomycin, a vancomycin-like glycopeptide. Oritavancin inhibits both transglycosylation and transpeptidation, by binding both the D-Ala-D-Ala and pentaglycine bridge segments of peptidoglycan to inhibit cell wall formation." [PMID:18258256, PMID:27904526, PMID:15954849]
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:16136912
+xref: CHEBI:82699
 
 [Term]
 id: ARO:3000190
@@ -2432,6 +2488,7 @@ namespace: antibiotic_resistance
 def: "Gramicidin S is a cyclical decapeptide with two pentapeptides (Val-Orn-Leu-D-Phe-Pro) joined head to tail. Like other gramicidins, Gramicidin S disrupts membrane permeability of cations while also destabilizing the membrane at higher concentrations." [PMID:10590309, PMID:8836773]
 is_a: ARO:3000123 ! gramicidin
 xref: PubChem:73357
+xref: CHEBI:5530
 
 [Term]
 id: ARO:3000201
@@ -2547,6 +2604,7 @@ namespace: antibiotic_resistance
 def: "Hygromycin B is an aminoglycoside antibiotic used to treat different types of bacterial infections. Hygromycin B works by binding to the bacterial 30S ribosomal subunit, causing misreading of mRNA and leaving the bacterium unable to synthesize proteins vital to its growth. Hygromycin B has also been shown to interact with eukaryotic cells." [PMID:10103173, PMID:11163189]
 is_a: ARO:0000016 ! aminoglycoside antibiotic
 xref: PubChem:35766
+xref: CHEBI:16976
 
 [Term]
 id: ARO:3000215
@@ -2622,6 +2680,7 @@ namespace: antibiotic_resistance
 def: "Gramicidin A is the most abundant (more than 80%) of the three gramicidins in gramicidin D, with a tryptophan in position 11. Gramicidins form dimers in the bacterial membrane that increase the permeability of cations." [PMID:17572379]
 is_a: ARO:3000123 ! gramicidin
 xref: PubChem:16132269
+xref: CHEBI:80115
 
 [Term]
 id: ARO:3000223
@@ -2630,6 +2689,7 @@ namespace: antibiotic_resistance
 def: "Gramicidin B is one of the three gramicidins in gramicidin D, with a phenylalanine in position 11. It is structurally similar to gramicidin A, but its ability to induce the assembly of bilayers is reduced. Gramicidins form dimers in the bacterial membrane that increase the permeability of cations." [PMID:17572379]
 is_a: ARO:3000123 ! gramicidin
 xref: PubChem:25244501
+xref: CHEBI:188873
 
 [Term]
 id: ARO:3000224
@@ -2664,6 +2724,7 @@ def: "Tyrothricin is a mixture of antibiotics including tyrocidines and gramicid
 is_a: ARO:3000707 ! antibiotic mixture
 relationship: has_part ARO:3000123 ! gramicidin
 xref: PubChem:452550
+xref: CHEBI:201397
 
 [Term]
 id: ARO:3000228
@@ -3007,6 +3068,7 @@ namespace: antibiotic_resistance
 def: "Brodimoprim is a structural derivative of trimethoprim and an inhibitor of bacterial dihydrofolate reductase. The 4-methoxy group of trimethoprim is replaced with a bromine atom." [PMID:7562018, PMID:10026296, PMID:8195838]
 is_a: ARO:3000171 ! diaminopyrimidine antibiotic
 xref: PubChem:68760
+xref: CHEBI:131726
 
 [Term]
 id: ARO:3000270
@@ -3046,6 +3108,7 @@ namespace: antibiotic_resistance
 def: "Tetroxoprim is a trimethoprim derivative that inhibits bacterial dihydrofolate reductase." [PMID:3043259, PMID:7036848]
 is_a: ARO:3000171 ! diaminopyrimidine antibiotic
 xref: PubChem:65450
+xref: CHEBI:135420
 
 [Term]
 id: ARO:3000299
@@ -3160,6 +3223,7 @@ namespace: antibiotic_resistance
 def: "Sulfadiazine is a potent inhibitor of dihydropteroate synthase, interfering with the tetrahydrofolic biosynthesis pathway. Tetrahydrofolic acid is essential for folate synthesis, a precursor to many nucleotides and amino acids." [PMID:4597736]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5215
+xref: CHEBI:9328
 
 [Term]
 id: ARO:3000325
@@ -3169,6 +3233,7 @@ def: "Sulfadimidine is an alkaline sulfonamide antibiotic that inhibits dihydrop
 is_a: ARO:3000282 ! sulfonamide antibiotic
 synonym: "sulfamethazine" EXACT []
 xref: PubChem:5327
+xref: CHEBI:102265
 
 [Term]
 id: ARO:3000326
@@ -3210,6 +3275,7 @@ namespace: antibiotic_resistance
 def: "Sulfadoxine is an inhibitor of dihydropteroate synthase, interfering with the tetrahydrofolic biosynthesis pathway. Tetrahydrofolic acid is essential for folate synthesis, a precursor to many nucleotides and amino acids." [PMID:21029476]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:17134
+xref: CHEBI:9329
 
 [Term]
 id: ARO:3000328
@@ -3226,6 +3292,7 @@ namespace: antibiotic_resistance
 def: "Sulfamethoxazole is a sulfonamide antibiotic usually taken with trimethoprim, a diaminopyrimidine antibiotic. Sulfamethoxazole inhibits dihydropteroate synthase, essential to tetrahydrofolic acid biosynthesis. This pathway generates compounds used in the synthesis of many amino acids and nucleotides." [PMID:1093654]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5329
+xref: CHEBI:9332
 
 [Term]
 id: ARO:3000330
@@ -3234,6 +3301,7 @@ namespace: antibiotic_resistance
 def: "Sulfisoxazole is an inhibitor of dihydropteroate synthase, interfering with the tetrahydrofolic biosynthesis pathway. Tetrahydrofolic acid is essential for folate synthesis, a precursor to many nucleotides and amino acids." [PMID:978409]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5344
+xref: CHEBI:102484
 
 [Term]
 id: ARO:3000333
@@ -3261,6 +3329,7 @@ is_a: ARO:3000171 ! diaminopyrimidine antibiotic
 synonym: "AR-100" EXACT []
 synonym: "RO-48-2622" EXACT []
 xref: PubChem:213043
+xref: CHEBI:131724
 
 [Term]
 id: ARO:3000338
@@ -3546,6 +3615,7 @@ namespace: antibiotic_resistance
 def: "Azidamfenicol is a water soluble derivative of chloramphenicol, sharing the same mode of action of inhibiting peptide synthesis by interacting with the 23S RNA of the 50S ribosomal subunit." [PMID:15539072]
 is_a: ARO:3000387 ! phenicol antibiotic
 xref: PubChem:62858
+xref: CHEBI:135238
 
 [Term]
 id: ARO:3000384
@@ -3571,6 +3641,7 @@ def: "Chloramphenicol is a bacteriostatic antimicrobial originally derived from 
 is_a: ARO:3000387 ! phenicol antibiotic
 synonym: "CHL" EXACT []
 xref: PubChem:5959
+xref: CHEBI:17698
 
 [Term]
 id: ARO:3000386
@@ -3903,6 +3974,7 @@ namespace: antibiotic_resistance
 def: "Derivative of Chloramphenicol. The nitro group (-NO2) is substituted by a sulfomethyl group (-SO2CH3)." [PMID:15539072]
 is_a: ARO:3000387 ! phenicol antibiotic
 xref: PubChem:27200
+xref: CHEBI:32215
 
 [Term]
 id: ARO:3000457
@@ -3935,6 +4007,7 @@ namespace: antibiotic_resistance
 def: "Florfenicol is a fluorine derivative of chloramphenicol, where the nitro group (-NO2) is substituted by a sulfomethyl group (-SO2CH3) and the hydroxyl group (-OH), by a fluorine group (-F). The action mechanism is the same as chloramphenicol's, where the antibiotic binds to the 23S RNA of the 50S subunit of bacterial ribosomes to inhibit protein synthesis." [PMID:15539072]
 is_a: ARO:3000387 ! phenicol antibiotic
 xref: PubChem:114811
+xref: CHEBI:87185
 
 [Term]
 id: ARO:3000462
@@ -3986,6 +4059,7 @@ def: "Dalbavancin is a semisynthetic second-generation lipoglycopeptide derived 
 is_a: ARO:3000081 ! glycopeptide antibiotic
 synonym: "Zeven" EXACT []
 xref: PubChem:23724878
+xref: CHEBI:82721
 
 [Term]
 id: ARO:3000467
@@ -4065,6 +4139,7 @@ namespace: antibiotic_resistance
 def: "Telavancin is a semi-synthetic derivative of vancomycin and is a second-generation lipoglycopeptide antibiotic. Telavancin inhibits cell wall synthesis by forming a complex with the D-Ala-D-Ala terminus of peptidoglycan precursors and preventing transglycosylation." [PMID:19401479, PMID:19436839, PMID:18671473]
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:3081362
+xref: CHEBI:71229
 
 [Term]
 id: ARO:3000489
@@ -4154,6 +4229,7 @@ namespace: antibiotic_resistance
 def: "Ethambutol is an antimycobacterial drug prescribed to treat tuberculosis. It is usually given in combination with other tuberculosis drugs, such as isoniazid, rifampicin, and pyrazinamide. Ethambutol inhibits arabinosyl biosynthesis, disrupting mycobacterial cell wall formation." [PMID:18242089]
 is_a: ARO:3000527 ! polyamine antibiotic
 xref: PubChem:14052
+xref: CHEBI:4877
 
 [Term]
 id: ARO:3000498
@@ -4315,6 +4391,7 @@ namespace: antibiotic_resistance
 def: "Rifaximin is a semi-synthetic rifamycin used to treat traveller's diarrhea. Rifaximin inhibits RNA synthesis by binding to the beta subunit of bacterial RNA polymerase." [PMID:15667909]
 is_a: ARO:3000157 ! rifamycin antibiotic
 xref: PubChem:6436173
+xref: CHEBI:75246
 
 [Term]
 id: ARO:3000518
@@ -4426,6 +4503,7 @@ is_a: ARO:3000050 ! tetracycline antibiotic
 synonym: "Aureomycin" EXACT []
 synonym: "Eremomycine" EXACT []
 xref: PubChem:54675777
+xref: CHEBI:27644
 
 [Term]
 id: ARO:3000530
@@ -4434,6 +4512,7 @@ namespace: antibiotic_resistance
 def: "Rifabutin is a semisynthetic rifamycin used in tuberculosis therapy. It inhibits DNA-dependent RNA synthesis." [PMID:15700959]
 is_a: ARO:3000157 ! rifamycin antibiotic
 xref: PubChem:135398743
+xref: CHEBI:45367
 
 [Term]
 id: ARO:3000531
@@ -4471,6 +4550,7 @@ def: "Rifapentine is a semisynthetic rifamycin that inhibits DNA-dependent RNA s
 is_a: ARO:3000157 ! rifamycin antibiotic
 synonym: "priftin" EXACT []
 xref: PubChem:135403821
+xref: CHEBI:45304
 
 [Term]
 id: ARO:3000535
@@ -4539,6 +4619,7 @@ synonym: "AZT" EXACT []
 synonym: "Azactam" EXACT []
 synonym: "Primbactam" EXACT []
 xref: PubChem:5742832
+xref: CHEBI:161680
 
 [Term]
 id: ARO:3000551
@@ -4557,6 +4638,7 @@ def: "Arsphenamine, also known as Salvarsan and 606, is a drug that was used beg
 is_a: ARO:3000551 ! organoarsenic antibiotic
 synonym: "Salvarsan" EXACT []
 xref: PubChem:8774
+xref: CHEBI:9016
 
 [Term]
 id: ARO:3000553
@@ -4575,6 +4657,7 @@ def: "Mupirocin, also known as pseudomonic acid, is a bacteriostatic polyketide 
 is_a: ARO:3007151 ! mupirocin-like antibiotic
 synonym: "pseudomonic acid" EXACT []
 xref: PubChem:446596
+xref: CHEBI:7025
 
 [Term]
 id: ARO:3000555
@@ -4800,6 +4883,7 @@ def: "Pristinamycin IA is a type B streptogramin antibiotic produced by Streptom
 is_a: ARO:0000050 ! streptogramin B antibiotic
 synonym: "Virginiamycin B" EXACT []
 xref: PubChem:11136668
+xref: CHEBI:8417
 
 [Term]
 id: ARO:3000584
@@ -4808,6 +4892,7 @@ namespace: antibiotic_resistance
 def: "Quinupristin is a type B streptogramin and a semisynthetic derivative of pristinamycin 1A. It is a component of the drug Synercid and interacts with the 50S subunit of the bacterial ribosome to inhibit protein synthesis." [PMID:9746015, PMID:15700955]
 is_a: ARO:0000050 ! streptogramin B antibiotic
 xref: PubChem:5388937
+xref: CHEBI:8732
 
 [Term]
 id: ARO:3000586
@@ -4817,6 +4902,7 @@ def: "Pulvomycin is a polyketide antibiotic that binds elongation factor Tu (EF-
 is_a: ARO:3001219 ! elfamycin antibiotic
 synonym: "Labilomycin" EXACT []
 xref: PubChem:5282056
+xref: CHEBI:29668
 
 [Term]
 id: ARO:3000587
@@ -5382,6 +5468,7 @@ is_a: ARO:0000022 ! polymyxin antibiotic
 is_a: ARO:0000067 ! colistin
 synonym: "polymyxin E1" EXACT []
 xref: PubChem:202195
+xref: CHEBI:59064
 
 [Term]
 id: ARO:3000624
@@ -5392,6 +5479,7 @@ is_a: ARO:0000022 ! polymyxin antibiotic
 is_a: ARO:0000067 ! colistin
 synonym: "polymyxin E2" EXACT []
 xref: PubChem:25138298
+xref: CHEBI:59673
 
 [Term]
 id: ARO:3000625
@@ -5401,6 +5489,7 @@ def: "Polymyxin B1 is in the family of polymyxin lipopeptides with a 6-methyloct
 is_a: ARO:0000022 ! polymyxin antibiotic
 is_a: ARO:3000454 ! polymyxin B
 xref: PubChem:199402
+xref: CHEBI:8309
 
 [Term]
 id: ARO:3000626
@@ -5410,6 +5499,7 @@ def: "Polymyxin B2 is in the family of polymyxin lipopeptides with a 6-methylhep
 is_a: ARO:0000022 ! polymyxin antibiotic
 is_a: ARO:3000454 ! polymyxin B
 xref: PubChem:11982455
+xref: CHEBI:59063
 
 [Term]
 id: ARO:3000627
@@ -5436,6 +5526,7 @@ namespace: antibiotic_resistance
 def: "Bacitracin A is the primary component of bacitracin. It contains many uncommon amino acids and interferes with bacterial cell wall synthesis." [PMID:6752975]
 is_a: ARO:0000041 ! bacitracin
 xref: PubChem:10909430
+xref: CHEBI:35862
 
 [Term]
 id: ARO:3000630
@@ -5452,6 +5543,7 @@ namespace: antibiotic_resistance
 def: "Bacitracin F is a component of bacitracin, an antibiotic mixture that interferes with bacterial cell wall synthesis. It is formed when the thiazoline ring of bacitracin A is oxidatively deaminated." [PMID:6752975]
 is_a: ARO:0000041 ! bacitracin
 xref: PubChem:3082210
+xref: CHEBI:221216
 
 [Term]
 id: ARO:3000632
@@ -5462,6 +5554,7 @@ is_a: ARO:3009124 ! beta-lactamase sensitive penicillin
 synonym: "Penicillin G" EXACT []
 synonym: "benzopenicillin" EXACT []
 xref: PubChem:5904
+xref: CHEBI:18208
 
 [Term]
 id: ARO:3000633
@@ -5473,6 +5566,7 @@ synonym: "penicillin V" EXACT []
 synonym: "phenomycilline" EXACT []
 synonym: "phenopenicillin" EXACT []
 xref: PubChem:6869
+xref: CHEBI:27446
 
 [Term]
 id: ARO:3000634
@@ -5482,6 +5576,7 @@ def: "Propicillin is an orally taken penicillin derivative that has high absorpt
 is_a: ARO:3009124 ! beta-lactamase sensitive penicillin
 synonym: "levopropicillin" EXACT []
 xref: PubChem:92879
+xref: CHEBI:52429
 
 [Term]
 id: ARO:3000635
@@ -5492,6 +5587,7 @@ is_a: ARO:3009125 ! beta-lactamase resistant penicillin
 synonym: "dicloxacilin" EXACT []
 synonym: "dicloxacycline" EXACT []
 xref: PubChem:18381
+xref: CHEBI:4511
 
 [Term]
 id: ARO:3000636
@@ -5502,6 +5598,7 @@ is_a: ARO:3009125 ! beta-lactamase resistant penicillin
 synonym: "floxacillin" EXACT []
 synonym: "floxapen" EXACT []
 xref: PubChem:21319
+xref: CHEBI:5098
 
 [Term]
 id: ARO:3000637
@@ -5513,6 +5610,7 @@ synonym: "AMP" EXACT []
 synonym: "Principen" EXACT []
 synonym: "ampicillin acid" EXACT []
 xref: PubChem:6249
+xref: CHEBI:28971
 
 [Term]
 id: ARO:3000638
@@ -5522,6 +5620,7 @@ def: "Azlocillin is a semisynthetic derivative of penicillin that is notably act
 is_a: ARO:3009123 ! penicillin with extended spectrum
 synonym: "AZL" EXACT []
 xref: PubChem:6479523
+xref: CHEBI:2956
 
 [Term]
 id: ARO:3000639
@@ -5531,6 +5630,7 @@ def: "Mezlocillin is a penicillin derivative taken parenterally." [PMID:6369480]
 is_a: ARO:3009123 ! penicillin with extended spectrum
 synonym: "mezlin" EXACT []
 xref: PubChem:656511
+xref: CHEBI:6919
 
 [Term]
 id: ARO:3000640
@@ -5541,6 +5641,7 @@ is_a: ARO:0000020 ! carbapenem
 synonym: "DOR" EXACT []
 synonym: "doribax" EXACT []
 xref: PubChem:73303
+xref: CHEBI:135928
 
 [Term]
 id: ARO:3000641
@@ -5551,6 +5652,7 @@ is_a: ARO:3009105 ! first-generation cephalosporin
 synonym: "LEX" EXACT []
 synonym: "cephalexin" EXACT []
 xref: PubChem:27447
+xref: CHEBI:3534
 
 [Term]
 id: ARO:3000642
@@ -5561,6 +5663,7 @@ is_a: ARO:3009105 ! first-generation cephalosporin
 synonym: "CFR" EXACT []
 synonym: "p-hydroxycephalexin" EXACT []
 xref: PubChem:47965
+xref: CHEBI:3479
 
 [Term]
 id: ARO:3000643
@@ -5570,6 +5673,7 @@ def: "Cefotiam is a cephalosporin antibiotic with similar activity to cefuroxime
 is_a: ARO:3009106 ! second-generation cephalosporin
 synonym: "cefotiamum" EXACT []
 xref: PubChem:43708
+xref: CHEBI:355510
 
 [Term]
 id: ARO:3000644
@@ -5581,6 +5685,7 @@ synonym: "CEC" EXACT []
 synonym: "ceclor" EXACT []
 synonym: "cephaclor" EXACT []
 xref: PubChem:51039
+xref: CHEBI:3478
 
 [Term]
 id: ARO:3000645
@@ -5591,6 +5696,7 @@ is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CTX" EXACT []
 synonym: "cefotaxime acid" EXACT []
 xref: PubChem:5742673
+xref: CHEBI:204928
 
 [Term]
 id: ARO:3000646
@@ -5601,6 +5707,7 @@ is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CFM" EXACT []
 synonym: "necopen" EXACT []
 xref: PubChem:5362065
+xref: CHEBI:472657
 
 [Term]
 id: ARO:3000647
@@ -5610,6 +5717,7 @@ def: "Cefpodoxime is a semisynthetic cephalosporin that acts similarly to cefota
 is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CPD" EXACT []
 xref: PubChem:6335986
+xref: CHEBI:3504
 
 [Term]
 id: ARO:3000648
@@ -5620,6 +5728,7 @@ is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CTB" EXACT []
 synonym: "Cedax" EXACT []
 xref: PubChem:5282242
+xref: CHEBI:3510
 
 [Term]
 id: ARO:3000649
@@ -5629,6 +5738,7 @@ def: "Cefditoren is a semisynthetic cephalosporin active against staphylococci, 
 is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CDN" EXACT []
 xref: PubChem:9571074
+xref: CHEBI:59343
 
 [Term]
 id: ARO:3000650
@@ -5638,6 +5748,7 @@ def: "Cefdinir is similar to cefixime with a modified side-chain at its 7-amino 
 is_a: ARO:3009107 ! third-generation cephalosporin
 synonym: "CDR" EXACT []
 xref: PubChem:6915944
+xref: CHEBI:3485
 
 [Term]
 id: ARO:3000651
@@ -5649,6 +5760,7 @@ synonym: "CPT" EXACT []
 synonym: "T91825" EXACT []
 synonym: "ceftaroline fosamil" EXACT []
 xref: PubChem:9852982
+xref: CHEBI:70729
 
 [Term]
 id: ARO:3000652
@@ -5659,6 +5771,7 @@ is_a: ARO:0000016 ! aminoglycoside antibiotic
 synonym: "isepamicine" EXACT []
 synonym: "isepamicinum" EXACT []
 xref: PubChem:3037209
+xref: CHEBI:37951
 
 [Term]
 id: ARO:3000653
@@ -5668,6 +5781,7 @@ def: "A gentamicin class aminoglycoside antibiotic often used in mammalian cell 
 is_a: ARO:0000016 ! aminoglycoside antibiotic
 synonym: "geneticin" EXACT []
 xref: PubChem:123865
+xref: CHEBI:42768
 
 [Term]
 id: ARO:3000654
@@ -5678,6 +5792,7 @@ is_a: ARO:0000016 ! aminoglycoside antibiotic
 synonym: "habekacin" EXACT []
 synonym: "haberacin" EXACT []
 xref: PubChem:68682
+xref: CHEBI:37922
 
 [Term]
 id: ARO:3000655
@@ -5687,6 +5802,7 @@ def: "Gentamicin B is a semisynthetic aminoglycoside antibacterial." [PMID:98727
 is_a: ARO:3007382 ! gentamicin
 synonym: "betamicin" EXACT []
 xref: PubChem:11754987
+xref: CHEBI:198034
 
 [Term]
 id: ARO:3000656
@@ -5722,6 +5838,7 @@ synonym: "monomycin A" EXACT []
 synonym: "neomycin E" EXACT []
 synonym: "paucimycin" EXACT []
 xref: PubChem:165580
+xref: CHEBI:7934
 
 [Term]
 id: ARO:3000658
@@ -5740,6 +5857,7 @@ is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "AM-1155" EXACT []
 synonym: "Tequin" EXACT []
 xref: PubChem:5379
+xref: CHEBI:5280
 
 [Term]
 id: ARO:3000660
@@ -5748,6 +5866,7 @@ namespace: antibiotic_resistance
 def: "Lomefloxacin is a difluoropiperazinyl quinolone, sharing similar activities with other fluoroquinolones. It is used to treat urinary tract infections. Relative to other fluoroquinolones, it has a longer half life and has higher serum concentrations." [PMID:8394795]
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 xref: PubChem:3948
+xref: CHEBI:116278
 
 [Term]
 id: ARO:3000661
@@ -5757,6 +5876,7 @@ def: "Nalidixic acid is a quinolone derivative of naphthyridine active against m
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "nalidixin" EXACT []
 xref: PubChem:4421
+xref: CHEBI:100147
 
 [Term]
 id: ARO:3000662
@@ -5765,6 +5885,7 @@ namespace: antibiotic_resistance
 def: "Norfloxacin is a 6-fluoro, 7-piperazinyl quinolone with a wide range of activity against Gram-negative bacteria. It is inactive against most anaerobes." [PMID:3908074]
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 xref: PubChem:4539
+xref: CHEBI:100246
 
 [Term]
 id: ARO:3000663
@@ -5775,6 +5896,7 @@ is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Tarivid" EXACT []
 synonym: "floxin" EXACT []
 xref: PubChem:4583
+xref: CHEBI:7731
 
 [Term]
 id: ARO:3000664
@@ -5785,6 +5907,7 @@ is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Trovan" EXACT []
 synonym: "alatrofloxacin" EXACT []
 xref: PubChem:62959
+xref: CHEBI:9763
 
 [Term]
 id: ARO:3000665
@@ -5794,6 +5917,7 @@ def: "Grepafloxacin is a broad-spectrum antibacterial quinoline. It is no longer
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Raxar" EXACT []
 xref: PubChem:72474
+xref: CHEBI:5543
 
 [Term]
 id: ARO:3000666
@@ -5803,6 +5927,7 @@ def: "Sparfloxacin is a dimethylpiperazinyl difluoroquinolone that acts by inhib
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Zagam" EXACT []
 xref: PubChem:60464
+xref: CHEBI:9212
 
 [Term]
 id: ARO:3000667
@@ -5813,6 +5938,7 @@ is_a: ARO:3000050 ! tetracycline antibiotic
 synonym: "DMCTC" EXACT []
 synonym: "declomycin" EXACT []
 xref: PubChem:54680690
+xref: CHEBI:4392
 
 [Term]
 id: ARO:3000668
@@ -5821,6 +5947,7 @@ namespace: antibiotic_resistance
 def: "Oxytetracycline is a derivative of tetracycline with a 5-hydroxyl group. Its activity is similar to other tetracyclines." [PMID:11381101]
 is_a: ARO:3000050 ! tetracycline antibiotic
 xref: PubChem:54675779
+xref: CHEBI:27701
 
 [Term]
 id: ARO:3000669
@@ -5832,6 +5959,7 @@ synonym: "Pristinamycin IIA" EXACT []
 synonym: "Pristinamycin IIB" EXACT []
 synonym: "Virginiamycin IIB" EXACT []
 xref: PubChem:46936184
+xref: CHEBI:9997
 
 [Term]
 id: ARO:3000670
@@ -5847,6 +5975,7 @@ namespace: antibiotic_resistance
 def: "Tiamulin is a pleuromutilin derivative currently used in veterinary medicine. It binds to the 23 rRNA of the 50S ribosomal subunit to inhibit protein translation." [PMID:11555289, PMID:20112168, PMID:19362093, PMID:15554968]
 is_a: ARO:3000670 ! pleuromutilin antibiotic
 xref: PubChem:656958
+xref: CHEBI:44137
 
 [Term]
 id: ARO:3000672
@@ -5857,6 +5986,7 @@ is_a: ARO:0000034 ! streptogramin A antibiotic
 synonym: "A2315A" EXACT []
 synonym: "madumicin II" EXACT []
 xref: PubChem:6441077
+xref: CHEBI:200095
 
 [Term]
 id: ARO:3000673
@@ -5865,6 +5995,7 @@ namespace: antibiotic_resistance
 def: "Griseoviridin is a streptogramin A antibiotic." [PMID:15700955]
 is_a: ARO:0000034 ! streptogramin A antibiotic
 xref: PubChem:6441064
+xref: CHEBI:199588
 
 [Term]
 id: ARO:3000674
@@ -5873,6 +6004,7 @@ namespace: antibiotic_resistance
 def: "Dalfopristin is a water-soluble semi-synthetic derivative of pristinamycin IIA. It is produced by Streptomyces pristinaespiralis and is used in combination with quinupristin in a 7:3 ratio. Both work together to inhibit protein synthesis, and is active against Gram-positive bacteria." [PMID:15700955]
 is_a: ARO:0000034 ! streptogramin A antibiotic
 xref: PubChem:6323289
+xref: CHEBI:4309
 
 [Term]
 id: ARO:3000675
@@ -5882,6 +6014,7 @@ def: "Pristinamycin IB is a class B streptogramin similar to pristinamycin IA, t
 is_a: ARO:0000050 ! streptogramin B antibiotic
 synonym: "Virginiamycin S1" EXACT []
 xref: PubChem:443309
+xref: CHEBI:8418
 
 [Term]
 id: ARO:3000676
@@ -5913,6 +6046,7 @@ is_a: ARO:0000050 ! streptogramin B antibiotic
 synonym: "Vernamycin B gamma" EXACT []
 synonym: "Virginiamycin S1" EXACT []
 xref: PubChem:443310
+xref: CHEBI:8419
 
 [Term]
 id: ARO:3000679
@@ -5953,6 +6087,7 @@ namespace: antibiotic_resistance
 def: "Sulfacetamide is a very soluable sulfonamide antibiotic previously used to treat urinary tract infections. Its relatively low activity and toxicity to those with Stevens-Johnson syndrome have reduced its use and availability." [PMID:8133250]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5320
+xref: CHEBI:63845
 
 [Term]
 id: ARO:3000684
@@ -5964,6 +6099,7 @@ synonym: "ambamide" EXACT []
 synonym: "maphenide" EXACT []
 synonym: "sulfamylon" EXACT []
 xref: PubChem:3998
+xref: CHEBI:6633
 
 [Term]
 id: ARO:3000685
@@ -5982,6 +6118,7 @@ is_a: ARO:3000053 ! peptide antibiotic
 synonym: "bryamycin" EXACT []
 synonym: "thiactin" EXACT []
 xref: PubChem:16129666
+xref: CHEBI:29693
 
 [Term]
 id: ARO:3000687
@@ -6003,6 +6140,7 @@ synonym: "furazolidine" EXACT []
 synonym: "furoxone" EXACT []
 synonym: "nitrofurazolidone" EXACT []
 xref: PubChem:5323714
+xref: CHEBI:5195
 
 [Term]
 id: ARO:3000689
@@ -6013,6 +6151,7 @@ is_a: ARO:3004115 ! nitroimidazole antibiotic
 synonym: "Flagyl" EXACT []
 synonym: "metronidazol" EXACT []
 xref: PubChem:4173
+xref: CHEBI:6909
 
 [Term]
 id: ARO:3000690
@@ -6031,6 +6170,7 @@ def: "Bleomycin A2 is a glycopeptide antibiotic produced by Streptomyces vertici
 is_a: ARO:0000053 ! bleomycin
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:5460769
+xref: CHEBI:3139
 
 [Term]
 id: ARO:3000692
@@ -6040,6 +6180,7 @@ def: "Bleomycin B2 is a glycopeptide antibiotic produced by Streptomyces vertici
 is_a: ARO:0000053 ! bleomycin
 is_a: ARO:3000081 ! glycopeptide antibiotic
 xref: PubChem:5496540
+xref: CHEBI:28641
 
 [Term]
 id: ARO:3000693
@@ -6048,6 +6189,7 @@ namespace: antibiotic_resistance
 def: "Defensins are natural cationic peptides that have antibiotic properties. It is part of the innate immune system of plants and animals." [PMID:12949495]
 is_a: ARO:3000053 ! peptide antibiotic
 xref: PubChem:56841867
+xref: CHEBI:82761
 
 [Term]
 id: ARO:3000694
@@ -6072,6 +6214,7 @@ def: "Dactinomycin, also known as Actinomycin D, is a cyclic peptide antibiotic 
 is_a: ARO:3000695 ! actinomycin
 synonym: "Actinomycin D" EXACT []
 xref: PubChem:457193
+xref: CHEBI:27666
 
 [Term]
 id: ARO:3000697
@@ -6090,6 +6233,7 @@ def: "Sulfasalazine is a derivative of the early sulfonamide sulfapyridine (sali
 is_a: ARO:3000282 ! sulfonamide antibiotic
 synonym: "salicylazosulfapyridine" EXACT []
 xref: PubChem:5339
+xref: CHEBI:9334
 
 [Term]
 id: ARO:3000699
@@ -6101,6 +6245,7 @@ synonym: "Urolucosil" EXACT []
 synonym: "sulfamethizol" EXACT []
 synonym: "sulphamethizole" EXACT []
 xref: PubChem:5328
+xref: CHEBI:9331
 
 [Term]
 id: ARO:3000700
@@ -6110,6 +6255,7 @@ def: "Lividomycin A is a pentasaccharide antibiotic which interferes with bacter
 is_a: ARO:0000016 ! aminoglycoside antibiotic
 is_a: ARO:3000658 ! lividomycin
 xref: PubChem:72394
+xref: CHEBI:71961
 
 [Term]
 id: ARO:3000701
@@ -6119,6 +6265,7 @@ def: "Lividomycin B is a derivative of lividomycin A with a removed mannose grou
 is_a: ARO:0000016 ! aminoglycoside antibiotic
 is_a: ARO:3000658 ! lividomycin
 xref: PubChem:46174031
+xref: CHEBI:71962
 
 [Term]
 id: ARO:3000702
@@ -6138,6 +6285,7 @@ is_a: ARO:3009105 ! first-generation cephalosporin
 synonym: "CEF" EXACT []
 synonym: "cephalothin" EXACT []
 xref: PubChem:6024
+xref: CHEBI:124991
 
 [Term]
 id: ARO:3000707
@@ -6751,6 +6899,7 @@ namespace: antibiotic_resistance
 def: "Fosmidomycin is an inhibitor of 1-deoxy-D-xylulose 5-phosphate reductoisomerase, an enzyme in the non-mevalonate pathway for isoprenoid synthesis. It is active against enterobacteria, but not against Gram-positive bacteria or anaerobes." [PMID:10477522]
 is_a: ARO:3007149 ! phosphonic acid antibiotic
 xref: PubChem:572
+xref: CHEBI:443725
 
 [Term]
 id: ARO:3000759
@@ -6760,6 +6909,7 @@ def: "Fusidic acid is the only commercially available fusidane, a group of stero
 is_a: ARO:3007153 ! fusidane antibiotic
 synonym: "fucidin" EXACT []
 xref: PubChem:3000226
+xref: CHEBI:29013
 
 [Term]
 id: ARO:3000760
@@ -6779,6 +6929,7 @@ synonym: "Selexid" EXACT []
 synonym: "Selexidin" EXACT []
 synonym: "amdinocillin" EXACT []
 xref: PubChem:36273
+xref: CHEBI:51208
 
 [Term]
 id: ARO:3000762
@@ -6787,6 +6938,7 @@ namespace: antibiotic_resistance
 def: "Pefloxacin is structurally and functionally similar to norfloxacin. It is poorly active against mycobacteria, while anaerobes are resistant." [PMID:2663414]
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 xref: PubChem:51081
+xref: CHEBI:50199
 
 [Term]
 id: ARO:3000763
@@ -7831,6 +7983,7 @@ is_a: ARO:0000000 ! macrolide antibiotic
 synonym: "Amimycin" EXACT []
 synonym: "Matromycin" EXACT []
 xref: PubChem:72493
+xref: CHEBI:16869
 
 [Term]
 id: ARO:3000869
@@ -7848,6 +8001,7 @@ namespace: antibiotic_resistance
 def: "Triclosan is a common antibacterial agent added to many consumer products as a biocide.  It is an inhibitor of fatty acid biosynthesis by blocking enoyl-carrier protein reductase (FabI)." [PMID:10196195, PMID:19768684]
 is_a: ARO:3005386 ! disinfecting agents and antiseptics
 xref: PubChem:5564
+xref: CHEBI:164200
 
 [Term]
 id: ARO:3000871
@@ -10761,6 +10915,7 @@ namespace: antibiotic_resistance
 def: "Factumycin is a kirromycin-like antibiotic produced by Kitasatospora setae and Streptomyces strains. Its biosynthetic cluster has been characterized which has interesting acetyl transferase domains in trans, or outside of the polyketide synthase domains. Factumycin has specific, rather than broad spectrum,  antibacterial properties, especially targeting various Acinetobacter baumanii strains." [PMID:7166535]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:135410114
+xref: CHEBI:216503
 
 [Term]
 id: ARO:3001221
@@ -10769,6 +10924,7 @@ namespace: antibiotic_resistance
 def: "A macrolide antibiotic from Streptomyces narbonensis subsp. josamyceticus. The drug has antimicrobial activity against a wide spectrum of pathogens." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5284579
+xref: CHEBI:31739
 
 [Term]
 id: ARO:3001222
@@ -10777,6 +10933,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces bikiniensis." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6436271
+xref: CHEBI:80016
 
 [Term]
 id: ARO:3001223
@@ -10785,6 +10942,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces mycarofaciens." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282169
+xref: CHEBI:31845
 
 [Term]
 id: ARO:3001224
@@ -10793,6 +10951,7 @@ namespace: antibiotic_resistance
 def: "Produced by Micromonospora griseorubida." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6447311
+xref: CHEBI:63276
 
 [Term]
 id: ARO:3001225
@@ -10809,6 +10968,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces narbonensis." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282036
+xref: CHEBI:29649
 
 [Term]
 id: ARO:3001227
@@ -10833,6 +10993,7 @@ namespace: antibiotic_resistance
 def: "Produced by Micromonospora rosaria." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6537204
+xref: CHEBI:87084
 
 [Term]
 id: ARO:3001230
@@ -10841,6 +11002,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces caelestis." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:6440864
+xref: CHEBI:31908
 
 [Term]
 id: ARO:3001231
@@ -10849,6 +11011,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces caelestis, which also produces the macrolide niddamycin." []
 is_a: ARO:0000017 ! lincosamide antibiotic
 xref: PubChem:220087
+xref: CHEBI:156421
 
 [Term]
 id: ARO:3001232
@@ -10857,6 +11020,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces venezuelae ATCC 15439." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282034
+xref: CHEBI:29630
 
 [Term]
 id: ARO:3001233
@@ -10865,6 +11029,7 @@ namespace: antibiotic_resistance
 def: "Produced by Streptomyces venezuelae ATCC 15439." []
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282037
+xref: CHEBI:29665
 
 [Term]
 id: ARO:3001234
@@ -10874,6 +11039,7 @@ def: "Kirromycin, also known as mocimycin, is the representative molecule of its
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 synonym: "mocimycin" EXACT []
 xref: PubChem:135452521
+xref: CHEBI:190786
 
 [Term]
 id: ARO:3001235
@@ -10886,6 +11052,7 @@ synonym: "goldinodox" EXACT []
 synonym: "goldinomycin" EXACT []
 synonym: "mocimycin" EXACT []
 xref: PubChem:135509117
+xref: CHEBI:201478
 
 [Term]
 id: ARO:3001236
@@ -10902,6 +11069,7 @@ namespace: antibiotic_resistance
 def: "GE2270A is the model molecule of cyclic thiazolyl peptide elfamycins. GE2270A is produced by Planobispora rosea. Biosynthesis of the molecule has been shown to originate as a ribosomally synthesized peptide that undergoes significant post-translational modification. Clinical use of cyclic thiazolyl peptides is hindered by their low water solubility and bioavailability." [PMID:8899707, PMID:16734421, PMID:20522549, PMID:20111801, PMID:10625477]
 is_a: ARO:3001309 ! cyclic thiazolyl peptide elfamycin
 xref: PubChem:16129640
+xref: CHEBI:29584
 
 [Term]
 id: ARO:3001242
@@ -10918,6 +11086,7 @@ namespace: antibiotic_resistance
 def: "Kirrothricin is produced by Streptomyces cinnamoneus and is structurally related to kirromycin, aurodox, heneicomycin and shares a similar spectrum of antibacterial activity." [PMID:7142013]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:54679291
+xref: CHEBI:223261
 
 [Term]
 id: ARO:3001247
@@ -10942,6 +11111,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin A was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Phenelfamycin A has a monosaccaride moeity and is isomeric with phenelfamycin B. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile." [PMID:3192490, PMID:2921230, PMID:3192489]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:6443943
+xref: CHEBI:222054
 
 [Term]
 id: ARO:3001250
@@ -10950,6 +11120,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin B was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Phenelfamycin B has a monosaccaride moeity and is isomeric with phenelfamycin A. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile." [PMID:3192490, PMID:3192489, PMID:2921230]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:6443944
+xref: CHEBI:222047
 
 [Term]
 id: ARO:3001251
@@ -10958,6 +11129,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin C was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Phenelfamycin C has a disaccaride moeity and is isomeric with phenelfamycin D. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile." [PMID:2921230, PMID:3192489, PMID:3192490]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:6443945
+xref: CHEBI:222040
 
 [Term]
 id: ARO:3001252
@@ -10973,6 +11145,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin E was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Phenelfamycin E has a trisaccaride moeity and is isomeric with phenelfamycin F. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile. Phenelfamycin E and F are the most potent of the phenelfamycins." [PMID:3192489, PMID:2921230, PMID:3192490]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:71433564
+xref: CHEBI:222034
 
 [Term]
 id: ARO:3001256
@@ -10981,6 +11154,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin F was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Phenelfamycin F has a trisaccaride moeity and is isomeric with phenelfamycin E. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile. Phenelfamycin E and F are the most potent of the phenelfamycins." [PMID:3192490, PMID:3192489, PMID:2921230]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:90478571
+xref: CHEBI:222028
 
 [Term]
 id: ARO:3001257
@@ -10989,6 +11163,7 @@ namespace: antibiotic_resistance
 def: "Unphenelfamycin was isolated from two environmental isolates called AB999F-80 and AB1047T-33. They were both identified as Streptomyces violaceoniger strains. Both these strains were found to produce phenelfamycins A-F and unphenelfamycin. Unphenelfamycin has a monosaccaride moeity and lacks the  phenacetyl moeity present in the other phenelfamycins. All phenelfamycins were selected due to their activity against anaerobic bacteria, especially Clostridioides difficile." [PMID:2921230, PMID:3192489, PMID:3192490]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:6443942
+xref: CHEBI:222022
 
 [Term]
 id: ARO:3001258
@@ -11013,6 +11188,7 @@ namespace: antibiotic_resistance
 def: "Amythiamicin A is a cyclic thiazolyl peptide antibiotic with a structure similar to GE2270A. Amythiamicin B, C, and D also exist, but are not discussed further here. Amythiamicin A was shown to have the highest activity in cell free protein synthesis assays." [PMID:7706132]
 is_a: ARO:3001309 ! cyclic thiazolyl peptide elfamycin
 xref: PubChem:198789
+xref: CHEBI:220214
 
 [Term]
 id: ARO:3001264
@@ -11058,6 +11234,7 @@ def: "An unusual aminoglycoside because the cyclitol ring is not amino substitut
 is_a: ARO:0000016 ! aminoglycoside antibiotic
 synonym: "kasugamicin" EXACT []
 xref: PubChem:65174
+xref: CHEBI:81419
 
 [Term]
 id: ARO:3001298
@@ -11235,6 +11412,7 @@ namespace: antibiotic_resistance
 def: "Retapamulin is a semi-synthetic pleuromutilin antibiotic approved for the treatment of skin infections." [PMID:17065625, PMID:17360517, PMID:16801451, PMID:16940066]
 is_a: ARO:3000670 ! pleuromutilin antibiotic
 xref: PubChem:6918462
+xref: CHEBI:166679
 
 [Term]
 id: ARO:3001315
@@ -11243,6 +11421,7 @@ namespace: antibiotic_resistance
 def: "Two semi-synthetic pleuromutilin derivatives, tiamulin and valnemulin, have been developed as antibiotics for veterinary use." [PMID:11555289, PMID:22070694]
 is_a: ARO:3000670 ! pleuromutilin antibiotic
 xref: PubChem:9850878
+xref: CHEBI:29705
 
 [Term]
 id: ARO:3001316
@@ -11251,6 +11430,7 @@ namespace: antibiotic_resistance
 def: "Azamulin is a semi-synthetic pleuromutilin derivative that failed Stage 1 clinical trials due to poor bioavailability." []
 is_a: ARO:3000670 ! pleuromutilin antibiotic
 xref: PubChem:16072188
+xref: CHEBI:201468
 
 [Term]
 id: ARO:3001317
@@ -11259,6 +11439,7 @@ namespace: antibiotic_resistance
 def: "Pleuromutilin is a natural product antibiotic produced by Clitopilus passeckerianus. Related antibiotics of clinical significance, such as tiamulin and retapamulin, are semi-synthetic derivatives of this compound." [PMID:23589420]
 is_a: ARO:3000670 ! pleuromutilin antibiotic
 xref: PubChem:31326
+xref: CHEBI:8269
 
 [Term]
 id: ARO:3001318
@@ -11275,6 +11456,7 @@ def: "A narrow spectrum antibiotic effective against  Clostridioides difficile i
 is_a: ARO:3001318 ! macrocyclic antibiotic
 synonym: "OPT-80" EXACT []
 xref: PubChem:10034073
+xref: CHEBI:68590
 
 [Term]
 id: ARO:3001320
@@ -11299,6 +11481,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin G is produced by Streptomyces albospinus strain Acta 3619. Phenelfamycin G and H are isomeric and similar to phenelfamycin E and F only with the addition of a hydroxyl group at position C-30. Phenelfamycin G and H have a narrow antibacterial spectrum with potent activity against Cutibacterium acnes." [PMID:21285962]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:102306422
+xref: CHEBI:203584
 
 [Term]
 id: ARO:3001323
@@ -11307,6 +11490,7 @@ namespace: antibiotic_resistance
 def: "Phenelfamycin H is produced by Streptomyces albospinus strain Acta 3619. Phenelfamycin G and H are isomeric and similar to phenelfamycin E and F only with the addition of a hydroxyl group at position C-30. Phenelfamycin G and H have a narrow antibacterial spectrum with potent activity against Cutibacterium acnes." [PMID:21285962]
 is_a: ARO:3001310 ! kirromycin-like antibiotics
 xref: PubChem:102306423
+xref: CHEBI:225298
 
 [Term]
 id: ARO:3001326
@@ -27167,6 +27351,7 @@ namespace: antibiotic_resistance
 def: "Teixobactin is a peptide antibiotic isolated from the Gram-negative bacteria, Eleftheria terrae. It inhibits the synthesis of peptidoglycan by interacting with peptidoglycan precursor, Lipid II and Lipid III." [PMID:25561178]
 is_a: ARO:3000053 ! peptide antibiotic
 xref: PubChem:86341926
+xref: CHEBI:84192
 
 [Term]
 id: ARO:3003250
@@ -28366,6 +28551,7 @@ def: "Dapsone is a sulfone in which it inhibits folic acid synthesis, such as th
 is_a: ARO:3003401 ! sulfone antibiotic
 synonym: "diaminodiphenyl sulfone" EXACT []
 xref: PubChem:2955
+xref: CHEBI:4325
 
 [Term]
 id: ARO:3003413
@@ -28822,6 +29008,7 @@ namespace: antibiotic_resistance
 def: "Ethionamide is a second-line antitubercular agent that inhibits mycolic acid synthesis." []
 is_a: ARO:3007156 ! thioamide antibiotic
 xref: PubChem:2761171
+xref: CHEBI:4885
 
 [Term]
 id: ARO:3003475
@@ -29386,6 +29573,7 @@ namespace: antibiotic_resistance
 def: "Magainin1 is an antimicrobial peptides produced by amphibians as part of their innate immune system. It is derived from the Xenopus laevis." [PMID:3277183]
 is_a: ARO:3000694 ! magainin
 xref: PubChem:16132169
+xref: CHEBI:80186
 
 [Term]
 id: ARO:3003572
@@ -29394,6 +29582,7 @@ namespace: antibiotic_resistance
 def: "Magainin 2 is an antimicrobial peptides produced from Xenopus laevis skin. It induce osmotic lysis of bacteria." [PMID:3277183]
 is_a: ARO:3000694 ! magainin
 xref: PubChem:16130189
+xref: CHEBI:80190
 
 [Term]
 id: ARO:3003573
@@ -30302,6 +30491,7 @@ def: "Sitafloxacin is a fluoroquinolone active against multi-resistant Gram-posi
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Gracevit" EXACT []
 xref: PubChem:461399
+xref: CHEBI:4304
 
 [Term]
 id: ARO:3003691
@@ -30393,6 +30583,7 @@ namespace: antibiotic_resistance
 def: "Rokitamycin is a macrolide antibiotic. Synthesized from strains of Streptomyces kitasatoensis." [PMID:1779258]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282211
+xref: CHEBI:32103
 
 [Term]
 id: ARO:3003702
@@ -30440,6 +30631,7 @@ namespace: antibiotic_resistance
 def: "Faropenem is an orally active beta-lactam antibiotic belonging to the penem group." [PMID:12615878]
 is_a: ARO:3009109 ! other cephalosporins and penems
 xref: PubChem:65894
+xref: CHEBI:51788
 
 [Term]
 id: ARO:3003708
@@ -30448,6 +30640,7 @@ namespace: antibiotic_resistance
 def: "Panipenem is a carbapenem antibacterial agent with a broad spectrum of in vitro activity covering a wide range of Gram-negative and Gram-positive aerobic and anaerobic bacterial.  It is used in combination with betamipron to inhibit panipenem uptake into the renal tubule and prevent nephrotoxicity." [PMID:12678575]
 is_a: ARO:0000020 ! carbapenem
 xref: PubChem:72015
+xref: CHEBI:7911
 
 [Term]
 id: ARO:3003709
@@ -30953,6 +31146,7 @@ namespace: antibiotic_resistance
 def: "A  heterocyclic antibiotic that targets mutant gyrA (type II topoisomerase) containing an S84L substitution, counteracting acquired quinolone resistance. It is effective against quinolone-resistant Gram-positive bacteria including S. aureus and E. faecalis. Due to its ability to counteract quinolone resistance by targeting the mutant form of the gyrA protein, it is classified as a reverse antibiotic (RA)." [PMID:16589716, PMID:22534508]
 is_a: ARO:3007157 ! nybomycin-like antibiotic
 xref: PubChem:169159
+xref: CHEBI:203472
 
 [Term]
 id: ARO:3003784
@@ -31321,6 +31515,7 @@ synonym: "Benzalkonium" EXACT []
 synonym: "D00857" EXACT []
 synonym: "Zephiran chloride" EXACT []
 xref: PubChem:2330
+xref: CHEBI:3020
 
 [Term]
 id: ARO:3003830
@@ -31341,6 +31536,7 @@ synonym: "BRL 17421" EXACT []
 synonym: "Temocilline" EXACT []
 synonym: "Temocillinum" EXACT []
 xref: PubChem:171758
+xref: CHEBI:51817
 
 [Term]
 id: ARO:3003832
@@ -31352,6 +31548,7 @@ synonym: "Ticarcilina" EXACT []
 synonym: "Ticarcilline" EXACT []
 synonym: "Ticarcillinum" EXACT []
 xref: PubChem:36921
+xref: CHEBI:9587
 
 [Term]
 id: ARO:3003835
@@ -31832,6 +32029,7 @@ namespace: antibiotic_resistance
 def: "Tedizolid is a synthetic oxazolidinone antibiotic that is administered to the patient as a prodrug that is activated in vivo. It acts as an inhibitor of protein synthesis by binding the 50S subunit of the ribosome and preventing formation of the 70S initiation complex. It is active against Gram-positive pathogens." [PMID:27904526, PMID:22324973]
 is_a: ARO:3000079 ! oxazolidinone antibiotic
 xref: PubChem:11234049
+xref: CHEBI:82717
 
 [Term]
 id: ARO:3003898
@@ -31840,6 +32038,7 @@ namespace: antibiotic_resistance
 def: "Lugdunin is a thiazolidine-containing cyclic peptide antibiotic isolated from nasal Staphylococcus lugnunensis that prohibits Staphylococcus aureus colony formation. It is a human commensal bacteria, indicating the potential for further antibiotic discoveries from human microbiota." [PMID:27466123]
 is_a: ARO:3000053 ! peptide antibiotic
 xref: PubChem:121596231
+xref: CHEBI:133127
 
 [Term]
 id: ARO:3003899
@@ -31950,6 +32149,7 @@ namespace: antibiotic_resistance
 def: "A drug which binds to menaquinone in the bacterial cell membrane. Binding of Lysocin to menaquinone facilitates lysis of the cell." [PMID:25485686]
 is_a: ARO:3003919 ! lysocin
 xref: PubChem:53373747
+xref: CHEBI:220095
 
 [Term]
 id: ARO:3003916
@@ -32064,6 +32264,7 @@ def: "Ceftolozane is a fifth-generation cephalosporin antibiotic developed for t
 is_a: ARO:3009109 ! other cephalosporins and penems
 synonym: "Zerbaxa" EXACT []
 xref: PubChem:53234134
+xref: CHEBI:134719
 
 [Term]
 id: ARO:3003928
@@ -32128,6 +32329,7 @@ namespace: antibiotic_resistance
 def: "An aminomethylcycline antibiotic that targets 16s rRNA in gram positive and gram negative bacteria." [PMID:27669321]
 is_a: ARO:3000050 ! tetracycline antibiotic
 xref: PubChem:54697325
+xref: CHEBI:177758
 
 [Term]
 id: ARO:3003937
@@ -32236,6 +32438,7 @@ def: "Microcin J25 is a peptide antibiotic that inhibits transcription by bacter
 is_a: ARO:3000053 ! peptide antibiotic
 synonym: "MccJ25" EXACT []
 xref: PubChem:10793809
+xref: CHEBI:203056
 
 [Term]
 id: ARO:3003952
@@ -32294,6 +32497,7 @@ synonym: "Hexadecanoic acid" EXACT []
 synonym: "N-Hexadecanoic acid" EXACT []
 synonym: "Palmitate" EXACT []
 xref: PubChem:985
+xref: CHEBI:15756
 
 [Term]
 id: ARO:3003958
@@ -32306,6 +32510,7 @@ synonym: "Cis-Oleic acid" EXACT []
 synonym: "Elaidoic acid" EXACT []
 synonym: "Oleate" EXACT []
 xref: PubChem:445639
+xref: CHEBI:16196
 
 [Term]
 id: ARO:3003959
@@ -38896,6 +39101,7 @@ name: Vanillobiocin
 namespace: antibiotic_resistance
 def: "Antibiotic similar to clorobiocin, but with vanillic acid as the acyl component instead of crenelated 4-hydroxybenzoic acid." [PMID:15152806]
 is_a: ARO:3000103 ! aminocoumarin antibiotic
+xref: CHEBI:197618
 
 [Term]
 id: ARO:3004717
@@ -38903,6 +39109,7 @@ name: Isovanillobiocin
 namespace: antibiotic_resistance
 def: "Antibiotic similar to clorobiocin, but with vanillic acid as the acyl component instead of crenelated 4-hydroxybenzoic acid. different from vanillobiocin by the [psition of the pyrrole unit attached to the sugar moiety of the antibiotic." [PMID:15152806]
 is_a: ARO:3000103 ! aminocoumarin antibiotic
+xref: CHEBI:211429
 
 [Term]
 id: ARO:3004718
@@ -38910,6 +39117,7 @@ name: Declovanillobiocin
 namespace: antibiotic_resistance
 def: "Antibiotic similar to clorobiocin, but with vanillic acid as the acyl component instead of crenelated 4-hydroxybenzoic acid. Declovanillobiocin lacks the chlorine atom at the aminocoumarin ring compared to vanillobiocin." [PMID:15152806]
 is_a: ARO:3000103 ! aminocoumarin antibiotic
+xref: CHEBI:206681
 
 [Term]
 id: ARO:3004719
@@ -58155,6 +58363,7 @@ namespace: antibiotic_resistance
 def: "Klebsidin is a peptide antibiotic derived from Klebsiella pneumoniae that exhibits activity against members of the Enterobacteriaceae family of Gram-negative bacteria, including Escherichia and Salmonella species. Klebsidin acts by accumulating in the target cell and inhibiting RNA polymerase." [PMID:35315272]
 is_a: ARO:3000053 ! peptide antibiotic
 xref: PubChem:146684527
+xref: CHEBI:219023
 
 [Term]
 id: ARO:3007094
@@ -58349,6 +58558,7 @@ namespace: antibiotic_resistance
 def: "Ornidazole is a synthetic nitroimidazole derivative mainly used to treat parasitic infections but has also demonstrated antibiotic activity against anaerobic bacteria." [PMID:18220342, PMID:1863621]
 is_a: ARO:3004115 ! nitroimidazole antibiotic
 xref: PubChem:28061
+xref: CHEBI:75176
 
 [Term]
 id: ARO:3007115
@@ -58554,6 +58764,7 @@ is_a: ARO:3000034 ! nucleoside antibiotic
 synonym: "3'-deoxyadenosine" EXACT []
 synonym: "cordycepine" EXACT []
 xref: PubChem:6303
+xref: CHEBI:29014
 
 [Term]
 id: ARO:3007140
@@ -58592,6 +58803,7 @@ namespace: antibiotic_resistance
 def: "Sulopenem is a carbapenem derivative in phase III clinical trials (2022) for the treatment of various gram-positive and gram-negative infections." [PMID:35294769]
 is_a: ARO:0000020 ! carbapenem
 xref: PubChem:9950244
+xref: CHEBI:201412
 
 [Term]
 id: ARO:3007144
@@ -58771,6 +58983,7 @@ def: "Gemifloxacin is a broad-spectrum, fourth generation, oral fluoroquinolone 
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 synonym: "Factive" EXACT []
 xref: PubChem:9571107
+xref: CHEBI:101853
 
 [Term]
 id: ARO:3007166
@@ -58804,6 +59017,7 @@ def: "Pirlimycin is an experimental/veterinary lincosamide antibiotic. Although 
 is_a: ARO:0000017 ! lincosamide antibiotic
 synonym: "Pirsue" EXACT []
 xref: PubChem:157385
+xref: CHEBI:201427
 
 [Term]
 id: ARO:3007171
@@ -60766,6 +60980,7 @@ def: "Gentamicin X is an aminoglycoside antibiotic. It is a precursor of gentami
 is_a: ARO:3007382 ! gentamicin
 synonym: "gentamicin X2" EXACT []
 xref: PubChem:15574862
+xref: CHEBI:81280
 
 [Term]
 id: ARO:3007377
@@ -61421,6 +61636,7 @@ namespace: antibiotic_resistance
 def: "Cethromycin is a ketolide (macrolide) antibiotic, with a similar mechanism to telithromycin, with activity against selected gram-positive, gram-negative, atypical bacteria, and even designed for tularemia, plague, and anthrax prophylaxis." [PMID:37081393]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:447451
+xref: CHEBI:29506
 
 [Term]
 id: ARO:3007456
@@ -61532,6 +61748,7 @@ namespace: antibiotic_resistance
 def: "Sulfanilamide is a sulfonamide anti-infective used to treat vulvovaginal candidiasis caused by Candida albicans." [PMID:37081146]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5333
+xref: CHEBI:45373
 
 [Term]
 id: ARO:3007469
@@ -61540,6 +61757,7 @@ namespace: antibiotic_resistance
 def: "Sulfamerazine is a sulfonamide anti-infective used to treat bacterial infections, such as bronchitis, prostatitis, and urinary tract infections." [PMID:37081146]
 is_a: ARO:3000282 ! sulfonamide antibiotic
 xref: PubChem:5325
+xref: CHEBI:102130
 
 [Term]
 id: ARO:3007470
@@ -61556,6 +61774,7 @@ namespace: antibiotic_resistance
 def: "Narasin is polyether ionophore antibiotic. It is a derivative of salinomycin with an additional methyl group. Narasin is produced by fermentation of a strain of Streptomyces aureofaciens." [PMID:37119567]
 is_a: ARO:3005163 ! ionophore with antibiotic activity
 xref: PubChem:65452
+xref: CHEBI:183815
 
 [Term]
 id: ARO:3007472
@@ -61564,6 +61783,7 @@ namespace: antibiotic_resistance
 def: "Tilmicosin is a macrolide antibiotic used for livestock and poultry synthesized from tylomycin. It is mainly used to treat common bacterial infections and diseases caused by mycoplasma infection in livestock and poultry breeding. Tilmicosin has broad-spectrum antibacterial properties and has a strong inhibitory effect on most Gram positive and negative bacteria." [PMID:37110187]
 is_a: ARO:0000000 ! macrolide antibiotic
 xref: PubChem:5282521
+xref: CHEBI:195409
 
 [Term]
 id: ARO:3007473
@@ -61591,6 +61811,7 @@ namespace: antibiotic_resistance
 def: "Cefcapene is a third-generation cephalosporin in the beta-lactam class of antibiotics used to manage and treat gram-negative and gram-positive bacterial infections." [PMID:36872372]
 is_a: ARO:3009107 ! third-generation cephalosporin
 xref: PubChem:6436055
+xref: CHEBI:131729
 
 [Term]
 id: ARO:3007476
@@ -61640,6 +61861,7 @@ namespace: antibiotic_resistance
 def: "Pseudouridimycin is a nucleoside analogue inhibitor discovered from the soil bacterium Streptomyces sp. which has proven to be effective against multidrug-resistant S. pyogenes." [PMID:36873015]
 is_a: ARO:3000034 ! nucleoside antibiotic
 xref: PubChem:72792467
+xref: CHEBI:199549
 
 [Term]
 id: ARO:3007482
@@ -61673,6 +61895,7 @@ namespace: antibiotic_resistance
 def: "Nigericin is an antibiotic derived from Streptomyces hygroscopicus. It is described as a potassium ionophore, which facilitates H+/K+ anti-port across cell membranes, thereby activating NLRP3 by causing potassium efflux." [PMID:37247906]
 is_a: ARO:3005163 ! ionophore with antibiotic activity
 xref: PubChem:34230
+xref: CHEBI:7569
 
 [Term]
 id: ARO:3007486
@@ -61803,6 +62026,7 @@ namespace: antibiotic_resistance
 def: "Caspofungin is an antibiotic, particularly antifungal, derived from echinocandins. It has a wide range of activity against fungi and yeasts." [PMID:11465873]
 is_a: ARO:3007496 ! echinocandin antibiotic
 xref: PubChem:3035406
+xref: CHEBI:474180
 
 [Term]
 id: ARO:3007502
@@ -61811,6 +62035,7 @@ namespace: antibiotic_resistance
 def: "Micafungin is an antibiotic, particularly antifungal, derived from echinocandins. It was discovered at Fujisawa Pharmaceutical Co., Ltd. It is active against most Candida species." [PMID:18424132]
 is_a: ARO:3007496 ! echinocandin antibiotic
 xref: PubChem:477468
+xref: CHEBI:600520
 
 [Term]
 id: ARO:3007503
@@ -61819,6 +62044,7 @@ namespace: antibiotic_resistance
 def: "Anidulafungin is an antibiotic, particularly antifungal, derived from echinocandins. It exhibits strong antifungal action against a variety of Candida spp. and Aspergillus spp., including those that are resistant to amphotericin B and triazole." [PMID:15456342]
 is_a: ARO:3007496 ! echinocandin antibiotic
 xref: PubChem:166548
+xref: CHEBI:55346
 
 [Term]
 id: ARO:3007504
@@ -61827,6 +62053,7 @@ namespace: antibiotic_resistance
 def: "Amphotericin B is an antibiotic, particularly antifungal, derived from polyene. It exhibits strong antifungal action against a variety of fungi species and is typically considered the gold standard of antifungals." [PMID:33523419]
 is_a: ARO:3007497 ! polyene antibiotic
 xref: PubChem:5280965
+xref: CHEBI:2682
 
 [Term]
 id: ARO:3007505
@@ -61835,6 +62062,7 @@ namespace: antibiotic_resistance
 def: "Nystatin is an antibiotic, particularly antifungal, derived from polyene. Nystatin is fungistatic in vitro against Candida albicans and certain other yeast-like fungi." [PMID:4919155]
 is_a: ARO:3007497 ! polyene antibiotic
 xref: PubChem:6433272
+xref: CHEBI:7660
 
 [Term]
 id: ARO:3007506
@@ -61843,6 +62071,7 @@ namespace: antibiotic_resistance
 def: "Naftifine is an antibiotic, particularly antifungal, derived from Allylamine. It was discovered in 19742 at the Sandoz Research Institute in Vienna, Austria. Naftifine is fungicidal against a broad spectrum of dermatophyte fungi and provides good against Candida and Aspergillus species." [PMID:18346400, PMID:1723367]
 is_a: ARO:3007498 ! allylamine antibiotic
 xref: PubChem:47641
+xref: CHEBI:7451
 
 [Term]
 id: ARO:3007507
@@ -61851,6 +62080,7 @@ namespace: antibiotic_resistance
 def: "Terbinafine is an antibiotic, particularly antifungal, derived from allylamine. Terbinafine is active against a broad range of fungi and yeast. It was discovered in 1983." [PMID:1372222]
 is_a: ARO:3007498 ! allylamine antibiotic
 xref: PubChem:1549008
+xref: CHEBI:9448
 
 [Term]
 id: ARO:3007508
@@ -61859,6 +62089,7 @@ namespace: antibiotic_resistance
 def: "Fluconazole is a type of triazole antibiotic, particularly antifungal. It is used for the treatment of superficial and systemic fungal infections." [PMID:10830059, PMID:8448970]
 is_a: ARO:3007499 ! triazole antibiotic
 xref: PubChem:3365
+xref: CHEBI:46081
 
 [Term]
 id: ARO:3007509
@@ -61876,6 +62107,7 @@ namespace: antibiotic_resistance
 def: "Itraconazole is a type of triazole antibiotic, particularly antifungal. It has broad spectrum activity against Candida and Malassezia species and Dermatophytes." [PMID:2561187]
 is_a: ARO:3007499 ! triazole antibiotic
 xref: PubChem:55283
+xref: CHEBI:6076
 
 [Term]
 id: ARO:3007512
@@ -61884,6 +62116,7 @@ namespace: antibiotic_resistance
 def: "Voriconazole is a type of triazole antibiotic, particularly antifungal. It is used for the treatment of invasive aspergillosis, candidaemia, and infections caused by Candida spp." [PMID:16278744]
 is_a: ARO:3007499 ! triazole antibiotic
 xref: PubChem:71616
+xref: CHEBI:10023
 
 [Term]
 id: ARO:3007513
@@ -61892,6 +62125,7 @@ namespace: antibiotic_resistance
 def: "Posaconazole is a type of triazole antibiotic, particularly antifungal. It has broad spectrum activity against Candida albicans and Aspergillus fumigatus." [PMID:10898669]
 is_a: ARO:3007499 ! triazole antibiotic
 xref: PubChem:468595
+xref: CHEBI:64355
 
 [Term]
 id: ARO:3007514
@@ -61900,6 +62134,7 @@ namespace: antibiotic_resistance
 def: "Isavuconazole is a type of triazole antibiotic, particularly antifungal. It has activity against yeasts, dimorphic fungi, and molds." [PMID:16284102]
 is_a: ARO:3007499 ! triazole antibiotic
 xref: PubChem:6918485
+xref: CHEBI:85979
 
 [Term]
 id: ARO:3007515
@@ -61918,6 +62153,7 @@ namespace: antibiotic_resistance
 def: "Clotrimazole is a type of imidazole antibiotic, particularly antifungal. It is mostly used for the treatment of tinea pedis,  vulvovaginal and oropharyngeal candidiasis. It has broad activity against Candida albicans and other fungal infections." [PMID:4677595, PMID:5579860]
 is_a: ARO:3007500 ! imidazole antibiotic
 xref: PubChem:2812
+xref: CHEBI:3764
 
 [Term]
 id: ARO:3007517
@@ -61926,6 +62162,7 @@ namespace: antibiotic_resistance
 def: "Ketoconazole is a type of imidazole antibiotic, particularly antifungal. It was one of the first available oral broad-spectrum antifungals for the treatment of systemic and superficial mycoses." [PMID:6276122, PMID:707893]
 is_a: ARO:3007500 ! imidazole antibiotic
 xref: PubChem:456201
+xref: CHEBI:47519
 
 [Term]
 id: ARO:3007518
@@ -61934,6 +62171,7 @@ namespace: antibiotic_resistance
 def: "Miconazole is a type of imidazole antibiotic, particularly antifungal. It is used to treat oral and vaginal yeast infections, as well as mucosal thrush." [PMID:4563141, PMID:4919243]
 is_a: ARO:3007500 ! imidazole antibiotic
 xref: PubChem:4189
+xref: CHEBI:6923
 
 [Term]
 id: ARO:3007519
@@ -61942,6 +62180,7 @@ namespace: antibiotic_resistance
 def: "Econazole is a type of imidazole antibiotic, particularly antifungal. It is often used to treat tinea cruris, tinea pedis, and tinea corporis." [PMID:4417140, PMID:1173036]
 is_a: ARO:3007500 ! imidazole antibiotic
 xref: PubChem:3198
+xref: CHEBI:4754
 
 [Term]
 id: ARO:3007520
@@ -61950,6 +62189,7 @@ namespace: antibiotic_resistance
 def: "Oxiconazole is a type of imidazole antibiotic, particularly antifungal. It is primarily used to treat tinea pedis, tinea cruris, tinea corporis, and tinea versicolor." [PMID:7037014, PMID:583212]
 is_a: ARO:3007500 ! imidazole antibiotic
 xref: PubChem:5353853
+xref: CHEBI:7825
 
 [Term]
 id: ARO:3007521
@@ -61958,6 +62198,7 @@ namespace: antibiotic_resistance
 def: "Flumequine is a first generation fluoroquinolone antibiotic. It is used primarily for the treatment of enteric infections in domestic species. It has been removed from clinical use and is no longer being marketed." [PMID:34729090]
 is_a: ARO:0000001 ! fluoroquinolone antibiotic
 xref: PubChem:3374
+xref: CHEBI:85267
 
 [Term]
 id: ARO:3007522
@@ -62027,6 +62268,7 @@ def: "Pivmecillinam, the oral prodrug of the antimicrobial active agent mecillin
 is_a: ARO:3009123 ! penicillin with extended spectrum
 synonym: "amdinocillin pivoxil" EXACT []
 xref: PubChem:115163
+xref: CHEBI:51210
 
 [Term]
 id: ARO:3007530
@@ -62073,6 +62315,7 @@ namespace: antibiotic_resistance
 def: "Arsinothricin is a natural product synthesized by the rhizosphere bacterium Burkholderia gladioli GSRB05 and is a broad-spectrum antibiotic effective against human pathogens such as carbapenem-resistant Enterobacter cloacae. It is a non-proteogenic amino acid and glutamate mimetic that inhibits bacterial glutamine synthetase." [PMID:36785875]
 is_a: ARO:3000551 ! organoarsenic antibiotic
 xref: PubChem:170988177
+xref: CHEBI:220158
 
 [Term]
 id: ARO:3007535
@@ -62133,6 +62376,7 @@ namespace: antibiotic_resistance
 def: "Cyclomarin A was found to be bacteriocidal against bacteria replicating in culture broth and in human-derived macrophages and a series of multidrug resistant clinical isolates. It was identified as a potent antitubercular compound in a natural product whole cell screen. Importantly it kills both growing and dormant, non-replicating mycobacteria." [PMID:27241518, PMID:36748577]
 is_a: ARO:3007540 ! cyclomarin antibiotics
 xref: PubChem:10772429
+xref: CHEBI:182606
 
 [Term]
 id: ARO:3007542
@@ -62141,6 +62385,7 @@ namespace: antibiotic_resistance
 def: "Cyclomarin B is a cyclomarin antibiotic." [PMID:27241518]
 is_a: ARO:3007540 ! cyclomarin antibiotics
 xref: PubChem:21593897
+xref: CHEBI:218852
 
 [Term]
 id: ARO:3007543
@@ -62149,6 +62394,7 @@ namespace: antibiotic_resistance
 def: "Cyclomarin C is a cyclomarin antibiotic." [PMID:27241518]
 is_a: ARO:3007540 ! cyclomarin antibiotics
 xref: PubChem:11205419
+xref: CHEBI:211272
 
 [Term]
 id: ARO:3007544
@@ -62181,6 +62427,7 @@ namespace: antibiotic_resistance
 def: "Salinomycin is an antibacterial and coccidiostat ionophore therapeutic drug." [PMID:37276926]
 is_a: ARO:3005163 ! ionophore with antibiotic activity
 xref: PubChem:3085092
+xref: CHEBI:80025
 
 [Term]
 id: ARO:3007548
@@ -62365,6 +62612,7 @@ def: "Mycaminosyltylonolide is a tylosin derivative with promising anti- P. aeru
 is_a: ARO:0000000 ! macrolide antibiotic
 synonym: "5-O-mycaminosyltylonolide" EXACT []
 xref: PubChem:6437420
+xref: CHEBI:77011
 
 [Term]
 id: ARO:3007571
@@ -62459,6 +62707,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684581
+xref: CHEBI:219437
 
 [Term]
 id: ARO:3007583
@@ -62467,6 +62716,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684582
+xref: CHEBI:219443
 
 [Term]
 id: ARO:3007584
@@ -62475,6 +62725,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684583
+xref: CHEBI:219450
 
 [Term]
 id: ARO:3007585
@@ -62483,6 +62734,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684585
+xref: CHEBI:219460
 
 [Term]
 id: ARO:3007586
@@ -62491,6 +62743,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684593
+xref: CHEBI:219506
 
 [Term]
 id: ARO:3007587
@@ -62499,6 +62752,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:156020171
+xref: CHEBI:226636
 
 [Term]
 id: ARO:3007588
@@ -62507,6 +62761,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684592
+xref: CHEBI:219500
 
 [Term]
 id: ARO:3007589
@@ -62515,6 +62770,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684586
+xref: CHEBI:219466
 
 [Term]
 id: ARO:3007590
@@ -62523,6 +62779,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:156011794
+xref: CHEBI:226642
 
 [Term]
 id: ARO:3007591
@@ -62531,6 +62788,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684587
+xref: CHEBI:219470
 
 [Term]
 id: ARO:3007592
@@ -62539,6 +62797,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684584
+xref: CHEBI:219455
 
 [Term]
 id: ARO:3007593
@@ -62547,6 +62806,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:156010277
+xref: CHEBI:226631
 
 [Term]
 id: ARO:3007594
@@ -62555,6 +62815,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684588
+xref: CHEBI:219476
 
 [Term]
 id: ARO:3007595
@@ -62563,6 +62824,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:156018422
+xref: CHEBI:226647
 
 [Term]
 id: ARO:3007596
@@ -62571,6 +62833,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684589
+xref: CHEBI:219484
 
 [Term]
 id: ARO:3007597
@@ -62579,6 +62842,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684590
+xref: CHEBI:219490
 
 [Term]
 id: ARO:3007598
@@ -62587,6 +62851,7 @@ namespace: antibiotic_resistance
 def: "Formicamycin congeners are promising antibiotics with potent activity against Gram-positive pathogens including VRE and MRSA and display a high barrier to selection of resistant isolates." [PMID:33440167]
 is_a: ARO:3007574 ! formicamycin
 xref: PubChem:146684591
+xref: CHEBI:219496
 
 [Term]
 id: ARO:3007599
@@ -62610,6 +62875,7 @@ namespace: antibiotic_resistance
 def: "Cervimycins are polyketide antibiotics." [PMID:36173303]
 is_a: ARO:3007600 ! cervimycin
 xref: PubChem:11557219
+xref: CHEBI:209712
 
 [Term]
 id: ARO:3007602
@@ -62618,6 +62884,7 @@ namespace: antibiotic_resistance
 def: "Cervimycins are polyketide antibiotics." [PMID:36173303]
 is_a: ARO:3007600 ! cervimycin
 xref: PubChem:11693822
+xref: CHEBI:206185
 
 [Term]
 id: ARO:3007603
@@ -62626,6 +62893,7 @@ namespace: antibiotic_resistance
 def: "Cervimycins are polyketide antibiotics." [PMID:36173303]
 is_a: ARO:3007600 ! cervimycin
 xref: PubChem:54687465
+xref: CHEBI:208953
 
 [Term]
 id: ARO:3007604
@@ -62634,6 +62902,7 @@ namespace: antibiotic_resistance
 def: "Cervimycins are polyketide antibiotics." [PMID:36173303]
 is_a: ARO:3007600 ! cervimycin
 xref: PubChem:54677926
+xref: CHEBI:198705
 
 [Term]
 id: ARO:3007605
@@ -62727,6 +62996,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:133275
+xref: CHEBI:156550
 
 [Term]
 id: ARO:3007617
@@ -62735,6 +63005,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:133274
+xref: CHEBI:220052
 
 [Term]
 id: ARO:3007618
@@ -62743,6 +63014,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:133779
+xref: CHEBI:210117
 
 [Term]
 id: ARO:3007619
@@ -62760,6 +63032,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:5487782
+xref: CHEBI:220086
 
 [Term]
 id: ARO:3007621
@@ -62794,6 +63067,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:11360758
+xref: CHEBI:210960
 
 [Term]
 id: ARO:3007625
@@ -62802,6 +63076,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:11303705
+xref: CHEBI:222702
 
 [Term]
 id: ARO:3007626
@@ -62819,6 +63094,7 @@ namespace: antibiotic_resistance
 def: "Pyrrolomycins are protonophores with antibiotic activity." [PMID:36171648]
 is_a: ARO:3007615 ! pyrrolomycin antibiotic
 xref: PubChem:11772125
+xref: CHEBI:217964
 
 [Term]
 id: ARO:3007628
@@ -64037,6 +64313,7 @@ namespace: antibiotic_resistance
 def: "Marinomycin C is a member of a new class of bis-salicylate-containing polyene macrodiolides, which have potent antibiotic activity against methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococcus faecium." [PMID:16448135]
 is_a: ARO:3007763 ! Marinomycin
 xref: PubChem:11240121
+xref: CHEBI:220588
 
 [Term]
 id: ARO:3007767
