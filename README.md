@@ -10,7 +10,7 @@ Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mc
 
 Curation of the ARO by the CARD team is currently in **housekeeping mode**, i.e., only the addition of newly reported AMR genes but no major restructuring of the ontology or its relationships, with the exception of introduction of anti-fungal resistance terms and more subtle ontological descriptions of bacterial efflux. 
 
-Updates are released every 1-3 months here and at the CARD website. **This repo (https://github.com/arpcard/aro) does not accept pull requests, but instead only reflects the latest release at [card.mcmaster.ca](https://card.mcmaster.ca)**. Please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues or at https://github.com/arpcard/amr_curation. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
+Updates are released every 1-3 months here and at the CARD website. **This repo** (https://github.com/arpcard/aro) **does not accept pull requests, but instead only reflects the latest release at** [card.mcmaster.ca](https://card.mcmaster.ca). Please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues or at https://github.com/arpcard/amr_curation. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
 
 ## Contributing to ARO Next
 
