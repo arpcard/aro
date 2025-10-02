@@ -10,9 +10,9 @@ Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mc
 
 The Antibiotic Resistance Ontology (ARO) is continuously improved by the Comprehensive Antibiotic Resistance Database (CARD) curation team, with updates released every 1-3 months here and at the CARD website. **This repo (https://github.com/arpcard/aro) does not accept pull requests, but instead only reflects the latest release at [card.mcmaster.ca](https://card.mcmaster.ca)**. Please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues or at https://github.com/arpcard/amr_curation. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
 
-## ARO Next
+## Housekeeping & ARO Next
 
-Curation of the ARO by the CARD team is currently in *housekeeping mode*, i.e., the addition of newly reported AMR genes but no major restructuring of the ontology or its relationships, with the exception of introduction of anti-fungal resistance terms and more subtle ontological descriptions of bacterial efflux. The next major phase of ARO development has begun, addressing issues of orthogonality and fundamental ontological design, at [ARO Next](https://github.com/arpcard/aro-next). ARO Next development will be independent of the CARD website and ongoing curation. It will replace the version of ARO available in this repository at a later date.
+Curation of the ARO by the CARD team is currently in **housekeeping mode**, i.e., the addition of newly reported AMR genes but no major restructuring of the ontology or its relationships, with the exception of introduction of anti-fungal resistance terms and more subtle ontological descriptions of bacterial efflux. The next major phase of ARO development has begun, addressing issues of orthogonality and fundamental ontological design, at [ARO Next](https://github.com/arpcard/aro-next). ARO Next development will be independent of the CARD website and ongoing curation. It will replace the version of ARO available in this repository at a later date.
 
 Community input into [ARO Next](https://github.com/arpcard/aro-next) is very welcome.
 
