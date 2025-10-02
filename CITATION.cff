@@ -1,0 +1,145 @@
+cff-version: 1.1.0
+date-released: 2020-01-01
+version: 6.0.3
+message: "If you use RGI or CARD in your research please cite:"
+repository-code: "https://github.com/arpcard/rgi"
+title: "CARD 2023: expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database"
+journal: "Nucleic Acids Research"
+doi: "10.1093/nar/gkac920"
+authors:
+  -
+    family-names: "Alcock"
+    given-names: "BP"
+  -
+    family-names: "Huynh"
+    given-names: "W"
+  -
+    family-names: "Chalil"
+    given-names: "R"
+  -
+    family-names: "Smith"
+    given-names: "KW"
+  -
+    family-names: "Raphenya"
+    given-names: "AR"
+  -
+    family-names: "Wlodarski"
+    given-names: "MA"
+  -
+    family-names: "Edalatmand"
+    given-names: "A"
+  -
+    family-names: "Petkau"
+    given-names: "A"
+  -
+    family-names: "Syed"
+    given-names: "SA"
+  -
+    family-names: "Tsang"
+    given-names: "KK"
+  -
+    family-names: "Baker"
+    given-names: "SJC"
+  -
+    family-names: "Dave"
+    given-names: "M"
+  -
+    family-names: "McCarthy"
+    given-names: "MC"
+  -
+    family-names: "Mukiri"
+    given-names: "KM"
+  -
+    family-names: "Nasir"
+    given-names: "JA"
+  -
+    family-names: "Golbon"
+    given-names: "B"
+  -
+    family-names: "Imtiaz"
+    given-names: "H"
+  -
+    family-names: "Jiang"
+    given-names: "X"
+  -
+    family-names: "Kaur"
+    given-names: "K"
+  -
+    family-names: "Kwong"
+    given-names: "M"
+  -
+    family-names: "Liang"
+    given-names: "ZC"
+  -
+    family-names: "Niu"
+    given-names: "KC"
+  -
+    family-names: "Shan"
+    given-names: "P"
+  -
+    family-names: "Yang"
+    given-names: "JYJ"
+  -
+    family-names: "Gray"
+    given-names: "KL"
+  -
+    family-names: "Hoad"
+    given-names: "GR"
+  -
+    family-names: "Jia"
+    given-names: "B"
+  -
+    family-names: "Bhando"
+    given-names: "T"
+  -
+    family-names: "Carfrae"
+    given-names: "LA"
+  -
+    family-names: "Farha"
+    given-names: "MA"
+  -
+    family-names: "French"
+    given-names: "S"
+  -
+    family-names: "Gordzevich"
+    given-names: "R"
+  -
+    family-names: "Rachwalski"
+    given-names: "K"
+  -
+    family-names: "Tu"
+    given-names: "MM"
+  -
+    family-names: "Bordeleau"
+    given-names: "E"
+  -
+    family-names: "Dooley"
+    given-names: "D"
+  -
+    family-names: "Griffiths"
+    given-names: "E"
+  -
+    family-names: "Zubyk"
+    given-names: "HL"
+  -
+    family-names: "Brown"
+    given-names: "ED"
+  -
+    family-names: "Maguire"
+    given-names: "F"
+  -
+    family-names: "Beiko"
+    given-names: "RG"
+  -
+    family-names: "Hsiao"
+    given-names: "WWL"
+  -
+    family-names: "Brinkman"
+    given-names: "FSL"
+  -
+    family-names: "Van"
+    given-names: "Domselaar"
+    given-names: "G"
+  -
+    family-names: "McArthur"
+    given-names: "AG"
