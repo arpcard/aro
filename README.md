@@ -12,7 +12,7 @@ The Antibiotic Resistance Ontology (ARO) is continuously improved by the Compreh
 
 ## ARO Next
 
-Curation of the ARO by the CARD team is currently in *housekeeping mode**, i.e., the addition of newly reported AMR genes but no major restructuring of the ontology or its relationships, with the exception of introduction of anti-fungal resistance terms and more subtle ontological descriptions of bacterial efflux. The next major phase of ARO development has begun, addressing issues of orthogonality and fundamental ontological design, at [ARO Next](https://github.com/arpcard/aro-next). ARO Next development will be independent of the CARD website and ongoing curation. It will replace the version of ARO available in this repository at a later date.
+Curation of the ARO by the CARD team is currently in *housekeeping mode*, i.e., the addition of newly reported AMR genes but no major restructuring of the ontology or its relationships, with the exception of introduction of anti-fungal resistance terms and more subtle ontological descriptions of bacterial efflux. The next major phase of ARO development has begun, addressing issues of orthogonality and fundamental ontological design, at [ARO Next](https://github.com/arpcard/aro-next). ARO Next development will be independent of the CARD website and ongoing curation. It will replace the version of ARO available in this repository at a later date.
 
 Community input into [ARO Next](https://github.com/arpcard/aro-next) is very welcome.
 
