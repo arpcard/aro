@@ -8,15 +8,13 @@ Ontologies at the [Comprehensive Antibiotic Resistance Database](https://card.mc
 
 ## Contributing
 
-The Antibiotic Resistance Ontology (ARO) is continuously improved by the Comprehensive Antibiotic Resistance Database (CARD) curation team, with updates released every 6-3 months here and at the CARD website. This repo (https://github.com/arpcard/aro) does not accept pull requests, instead please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues, https://github.com/arpcard/amr_curation, or emailing card@mcmaster.ca. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
+The Antibiotic Resistance Ontology (ARO) is continuously improved by the Comprehensive Antibiotic Resistance Database (CARD) curation team, with updates released every 3-6 months here and at the CARD website. This repo (https://github.com/arpcard/aro) does not accept pull requests, instead please request additions or modifications to the ARO either here via https://github.com/arpcard/aro/issues, https://github.com/arpcard/amr_curation, or emailing card@mcmaster.ca. The curation team will work with you to incorporate your suggestions into the next release of the ARO.
 
 ## Stable Release Versions
 
-The latest version of the ontology can always be found at:
+The latest version of the ontology can always be found at the OBO Foundry PURL:
 
 http://purl.obolibrary.org/obo/aro.owl
-
-(note this will not show up until the request has been approved by obofoundry.org)
 
 ## Contact
 
